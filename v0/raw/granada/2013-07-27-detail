@@ -1,0 +1,682 @@
+<HTML><HEAD>
+<meta http-equiv="Content-Language" content="es">
+<title>Informe Diario de Calidad del Aire Ambiente 27/07/2013</title>
+<style type="text/css">
+<!--
+body {´font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+td {´font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+.CabTabla {´font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; backgroundcolor=#999999; color=#FFFFFF }
+-->
+</style>
+</HEAD>
+<body bgcolor=white link=green vlink="#054100" alink=lightgreen>
+<table border="1" width="100%" cellspacing="0" cellpadding="5">
+  <tr>
+    <th width="20%" rowspan="2" >
+      <img border="0" src="/imagenes/logo_junta.gif">
+      <h5>Consejería de Medio Ambiente</h5>
+    </tH>
+    <td rowspan="2" align="center">
+      <h2>RED DE VIGILANCIA Y CONTROL DE LA CALIDAD DEL AIRE DE ANDALUCIA</h2>
+      <h2>Informe Diario de Calidad del Aire Ambiente</h2>
+    </td>
+    <TH width="20%" > <h2>S.I.V.A. </h2></TH>
+  </tr>
+  <tr>
+    <tH width="20%" >TIPO DE DATOS: No Validados</tH>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<div align="left">
+	
+<br><b><u>Leyenda:</u></b>
+<br>Este informe se realiza a partir de los datos de la Red de Vigilancia y Control
+ de la Contaminacion Atmosferica de Andalucia.
+	
+<br>Se muestran los valores medios semi-horarios, cuarto-horarios o de diez minutos.
+	
+<br><b>SO2:</b> Dioxido de azufre<br><b>PART:</b> Particulas en suspension
+<br><b>NO2:</b> Dioxido de nitrogeno<br><b>CO:</b>   Monoxido de carbono
+<br><b>O3:</b>  Ozono<br><b>SH2:</b>  Acido sulfhidrico
+	
+<br><b>Nota:</b>Los datos, aqui publicados, no han sido sometidos al proceso de validacion.
+<br>Las unidades estan expresadas en microgramos/metrocubico(ug/m3).
+	
+<br>Estos datos no pueden ser comparados directamente con los límites de
+ referencia que establece la legislación en cada caso, ya que estos normalmente
+ están basados en tipos de medias distintos de los que aqui se representan.
+	
+<br><br>
+<table cellspacing=0 cellpadding="0" border="1" width=90% align=CENTER><tr><td bgcolor=GRAY width=20%><div align="center"><font color="#FFFFFF"><b>Provincia</b></font></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;GRANADA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Municipio</font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;MOTRIL</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Estacion </font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;MOTRIL</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Direccion</font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;EL VARADERO</b></td></tr></table>
+<br>
+<table align=CENTER cellspacing=0 cellpadding="0" border="1" width=90%><tr bgcolor=gray align=center><td class="CabTabla" width=30%><b>FECHA-HORA</b></td>
+<td class="CabTabla"><b>SO2</b></td>
+<td class="CabTabla"><b>PART</b></td>
+<td class="CabTabla"><b>NO2</b></td>
+<td class="CabTabla"><b>CO</b></td>
+<td class="CabTabla"><b>O3</b></td>
+</tr>
+<tr><td>27/07/13-00:10</td><TD>4</TD><TD>34</TD><TD>18</TD><TD>380</TD><TD>52</TD></tr>
+<tr><td>27/07/13-00:20</td><TD>4</TD><TD>30</TD><TD>17</TD><TD>378</TD><TD>53</TD></tr>
+<tr><td>27/07/13-00:30</td><TD>4</TD><TD>30</TD><TD>15</TD><TD>370</TD><TD>52</TD></tr>
+<tr><td>27/07/13-00:40</td><TD>4</TD><TD>30</TD><TD>15</TD><TD>378</TD><TD>51</TD></tr>
+<tr><td>27/07/13-00:50</td><TD>4</TD><TD>30</TD><TD>18</TD><TD>383</TD><TD>49</TD></tr>
+<tr><td>27/07/13-01:00</td><TD>5</TD><TD>32</TD><TD>17</TD><TD>403</TD><TD>54</TD></tr>
+<tr><td>27/07/13-01:10</td><TD>4</TD><TD>29</TD><TD>19</TD><TD>412</TD><TD>46</TD></tr>
+<tr><td>27/07/13-01:20</td><TD>5</TD><TD>28</TD><TD>22</TD><TD>417</TD><TD>41</TD></tr>
+<tr><td>27/07/13-01:30</td><TD>4</TD><TD>28</TD><TD>24</TD><TD>397</TD><TD>42</TD></tr>
+<tr><td>27/07/13-01:40</td><TD>4</TD><TD>30</TD><TD>25</TD><TD>410</TD><TD>44</TD></tr>
+<tr><td>27/07/13-01:50</td><TD>5</TD><TD>29</TD><TD>24</TD><TD>402</TD><TD>43</TD></tr>
+<tr><td>27/07/13-02:00</td><TD>4</TD><TD>29</TD><TD>27</TD><TD>393</TD><TD>40</TD></tr>
+<tr><td>27/07/13-02:10</td><TD>5</TD><TD>32</TD><TD>26</TD><TD>406</TD><TD>40</TD></tr>
+<tr><td>27/07/13-02:20</td><TD>5</TD><TD>31</TD><TD>26</TD><TD>414</TD><TD>40</TD></tr>
+<tr><td>27/07/13-02:30</td><TD>5</TD><TD>31</TD><TD>27</TD><TD>414</TD><TD>39</TD></tr>
+<tr><td>27/07/13-02:40</td><TD>5</TD><TD>33</TD><TD>28</TD><TD>394</TD><TD>39</TD></tr>
+<tr><td>27/07/13-02:50</td><TD>4</TD><TD>32</TD><TD>24</TD><TD>402</TD><TD>42</TD></tr>
+<tr><td>27/07/13-03:00</td><TD>5</TD><TD>33</TD><TD>25</TD><TD>428</TD><TD>36</TD></tr>
+<tr><td>27/07/13-03:10</td><TD>5</TD><TD>30</TD><TD>28</TD><TD>390</TD><TD>35</TD></tr>
+<tr><td>27/07/13-03:20</td><TD>5</TD><TD>29</TD><TD>26</TD><TD>391</TD><TD>34</TD></tr>
+<tr><td>27/07/13-03:30</td><TD>6</TD><TD>30</TD><TD>28</TD><TD>432</TD><TD>29</TD></tr>
+<tr><td>27/07/13-03:40</td><TD>5</TD><TD>29</TD><TD>32</TD><TD>402</TD><TD>19</TD></tr>
+<tr><td>27/07/13-03:50</td><TD>5</TD><TD>29</TD><TD>37</TD><TD>431</TD><TD>19</TD></tr>
+<tr><td>27/07/13-04:00</td><TD>5</TD><TD>29</TD><TD>33</TD><TD>390</TD><TD>25</TD></tr>
+<tr><td>27/07/13-04:10</td><TD>5</TD><TD>31</TD><TD>28</TD><TD>384</TD><TD>28</TD></tr>
+<tr><td>27/07/13-04:20</td><TD>5</TD><TD>31</TD><TD>27</TD><TD>395</TD><TD>29</TD></tr>
+<tr><td>27/07/13-04:30</td><TD>7</TD><TD>33</TD><TD>23</TD><TD>428</TD><TD>33</TD></tr>
+<tr><td>27/07/13-04:40</td><TD>5</TD><TD>32</TD><TD>23</TD><TD>404</TD><TD>32</TD></tr>
+<tr><td>27/07/13-04:50</td><TD>5</TD><TD>32</TD><TD>25</TD><TD>406</TD><TD>29</TD></tr>
+<tr><td>27/07/13-05:00</td><TD>6</TD><TD>33</TD><TD>26</TD><TD>410</TD><TD>25</TD></tr>
+<tr><td>27/07/13-05:10</td><TD>6</TD><TD>40</TD><TD>24</TD><TD>421</TD><TD>32</TD></tr>
+<tr><td>27/07/13-05:20</td><TD>6</TD><TD>39</TD><TD>20</TD><TD>414</TD><TD>40</TD></tr>
+<tr><td>27/07/13-05:30</td><TD>6</TD><TD>39</TD><TD>20</TD><TD>414</TD><TD>37</TD></tr>
+<tr><td>27/07/13-05:40</td><TD>6</TD><TD>38</TD><TD>20</TD><TD>416</TD><TD>32</TD></tr>
+<tr><td>27/07/13-05:50</td><TD>5</TD><TD>37</TD><TD>22</TD><TD>410</TD><TD>28</TD></tr>
+<tr><td>27/07/13-06:00</td><TD>5</TD><TD>37</TD><TD>21</TD><TD>381</TD><TD>34</TD></tr>
+<tr><td>27/07/13-06:10</td><TD>6</TD><TD>33</TD><TD>20</TD><TD>415</TD><TD>35</TD></tr>
+<tr><td>27/07/13-06:20</td><TD>5</TD><TD>29</TD><TD>24</TD><TD>402</TD><TD>30</TD></tr>
+<tr><td>27/07/13-06:30</td><TD>5</TD><TD>29</TD><TD>23</TD><TD>404</TD><TD>38</TD></tr>
+<tr><td>27/07/13-06:40</td><TD>5</TD><TD>29</TD><TD>19</TD><TD>410</TD><TD>49</TD></tr>
+<tr><td>27/07/13-06:50</td><TD>5</TD><TD>29</TD><TD>33</TD><TD>449</TD><TD>29</TD></tr>
+<tr><td>27/07/13-07:00</td><TD>5</TD><TD>29</TD><TD>34</TD><TD>422</TD><TD>28</TD></tr>
+<tr><td>27/07/13-07:10</td><TD>5</TD><TD>30</TD><TD>27</TD><TD>396</TD><TD>31</TD></tr>
+<tr><td>27/07/13-07:20</td><TD>5</TD><TD>31</TD><TD>27</TD><TD>406</TD><TD>27</TD></tr>
+<tr><td>27/07/13-07:30</td><TD>5</TD><TD>30</TD><TD>26</TD><TD>414</TD><TD>29</TD></tr>
+<tr><td>27/07/13-07:40</td><TD>5</TD><TD>30</TD><TD>28</TD><TD>405</TD><TD>30</TD></tr>
+<tr><td>27/07/13-07:50</td><TD>5</TD><TD>30</TD><TD>29</TD><TD>413</TD><TD>32</TD></tr>
+<tr><td>27/07/13-08:00</td><TD>4</TD><TD>30</TD><TD>27</TD><TD>425</TD><TD>36</TD></tr>
+<tr><td>27/07/13-08:10</td><TD>5</TD><TD>33</TD><TD>29</TD><TD>472</TD><TD>35</TD></tr>
+<tr><td>27/07/13-08:20</td><TD>4</TD><TD>33</TD><TD>26</TD><TD>424</TD><TD>38</TD></tr>
+<tr><td>27/07/13-08:30</td><TD>4</TD><TD>33</TD><TD>22</TD><TD>406</TD><TD>40</TD></tr>
+<tr><td>27/07/13-08:40</td><TD>5</TD><TD>33</TD><TD>19</TD><TD>404</TD><TD>40</TD></tr>
+<tr><td>27/07/13-08:50</td><TD>5</TD><TD>33</TD><TD>19</TD><TD>395</TD><TD>41</TD></tr>
+<tr><td>27/07/13-09:00</td><TD>4</TD><TD>33</TD><TD>24</TD><TD>419</TD><TD>36</TD></tr>
+<tr><td>27/07/13-09:10</td><TD>5</TD><TD>31</TD><TD>39</TD><TD>424</TD><TD>35</TD></tr>
+<tr><td>27/07/13-09:20</td><TD>5</TD><TD>31</TD><TD>36</TD><TD>421</TD><TD>39</TD></tr>
+<tr><td>27/07/13-09:30</td><TD>5</TD><TD>31</TD><TD>21</TD><TD>422</TD><TD>51</TD></tr>
+<tr><td>27/07/13-09:40</td><TD>6</TD><TD>32</TD><TD>17</TD><TD>417</TD><TD>58</TD></tr>
+<tr><td>27/07/13-09:50</td><TD>5</TD><TD>31</TD><TD>21</TD><TD>466</TD><TD>54</TD></tr>
+<tr><td>27/07/13-10:00</td><TD>5</TD><TD>32</TD><TD>16</TD><TD>391</TD><TD>58</TD></tr>
+<tr><td>27/07/13-10:10</td><TD>5</TD><TD>32</TD><TD>11</TD><TD>388</TD><TD>62</TD></tr>
+<tr><td>27/07/13-10:20</td><TD>5</TD><TD>32</TD><TD>12</TD><TD>399</TD><TD>61</TD></tr>
+<tr><td>27/07/13-10:30</td><TD>5</TD><TD>31</TD><TD>10</TD><TD>407</TD><TD>64</TD></tr>
+<tr><td>27/07/13-10:40</td><TD>4</TD><TD>32</TD><TD>16</TD><TD>359</TD><TD>64</TD></tr>
+<tr><td>27/07/13-10:50</td><TD>5</TD><TD>32</TD><TD>11</TD><TD>400</TD><TD>61</TD></tr>
+<tr><td>27/07/13-11:00</td><TD>4</TD><TD>32</TD><TD>9</TD><TD>366</TD><TD>63</TD></tr>
+<tr><td>27/07/13-11:10</td><TD>4</TD><TD>28</TD><TD>9</TD><TD>349</TD><TD>64</TD></tr>
+<tr><td>27/07/13-11:20</td><TD>5</TD><TD>28</TD><TD>7</TD><TD>356</TD><TD>64</TD></tr>
+<tr><td>27/07/13-11:30</td><TD>5</TD><TD>28</TD><TD>12</TD><TD>387</TD><TD>64</TD></tr>
+<tr><td>27/07/13-11:40</td><TD>4</TD><TD>28</TD><TD>8</TD><TD>365</TD><TD>66</TD></tr>
+<tr><td>27/07/13-11:50</td><TD>5</TD><TD>28</TD><TD>9</TD><TD>355</TD><TD>66</TD></tr>
+<tr><td>27/07/13-12:00</td><TD>4</TD><TD>28</TD><TD>8</TD><TD>353</TD><TD>67</TD></tr>
+<tr><td>27/07/13-12:10</td><TD>4</TD><TD>28</TD><TD>9</TD><TD>356</TD><TD>67</TD></tr>
+<tr><td>27/07/13-12:20</td><TD>4</TD><TD>29</TD><TD>10</TD><TD>366</TD><TD>65</TD></tr>
+<tr><td>27/07/13-12:30</td><TD>5</TD><TD>29</TD><TD>18</TD><TD>390</TD><TD>66</TD></tr>
+<tr><td>27/07/13-12:40</td><TD>5</TD><TD>29</TD><TD>12</TD><TD>369</TD><TD>71</TD></tr>
+<tr><td>27/07/13-12:50</td><TD>5</TD><TD>28</TD><TD>11</TD><TD>386</TD><TD>75</TD></tr>
+<tr><td>27/07/13-13:00</td><TD>4</TD><TD>29</TD><TD>8</TD><TD>370</TD><TD>78</TD></tr>
+<tr><td>27/07/13-13:10</td><TD>4</TD><TD>29</TD><TD>16</TD><TD>375</TD><TD>77</TD></tr>
+<tr><td>27/07/13-13:20</td><TD>4</TD><TD>29</TD><TD>8</TD><TD>368</TD><TD>81</TD></tr>
+<tr><td>27/07/13-13:30</td><TD>5</TD><TD>29</TD><TD>12</TD><TD>385</TD><TD>79</TD></tr>
+<tr><td>27/07/13-13:40</td><TD>5</TD><TD>29</TD><TD>14</TD><TD>367</TD><TD>80</TD></tr>
+<tr><td>27/07/13-13:50</td><TD>4</TD><TD>29</TD><TD>10</TD><TD>365</TD><TD>85</TD></tr>
+<tr><td>27/07/13-14:00</td><TD>5</TD><TD>29</TD><TD>14</TD><TD>402</TD><TD>79</TD></tr>
+<tr><td>27/07/13-14:10</td><TD>4</TD><TD>32</TD><TD>10</TD><TD>378</TD><TD>83</TD></tr>
+<tr><td>27/07/13-14:20</td><TD>5</TD><TD>32</TD><TD>9</TD><TD>361</TD><TD>83</TD></tr>
+<tr><td>27/07/13-14:30</td><TD>5</TD><TD>32</TD><TD>7</TD><TD>364</TD><TD>86</TD></tr>
+<tr><td>27/07/13-14:40</td><TD>4</TD><TD>32</TD><TD>8</TD><TD>350</TD><TD>89</TD></tr>
+<tr><td>27/07/13-14:50</td><TD>4</TD><TD>32</TD><TD>9</TD><TD>360</TD><TD>85</TD></tr>
+<tr><td>27/07/13-15:00</td><TD>4</TD><TD>32</TD><TD>8</TD><TD>361</TD><TD>77</TD></tr>
+<tr><td>27/07/13-15:10</td><TD>4</TD><TD>28</TD><TD>12</TD><TD>414</TD><TD>71</TD></tr>
+<tr><td>27/07/13-15:20</td><TD>4</TD><TD>27</TD><TD>12</TD><TD>424</TD><TD>74</TD></tr>
+<tr><td>27/07/13-15:30</td><TD>5</TD><TD>27</TD><TD>12</TD><TD>366</TD><TD>89</TD></tr>
+<tr><td>27/07/13-15:40</td><TD>4</TD><TD>27</TD><TD>8</TD><TD>341</TD><TD>94</TD></tr>
+<tr><td>27/07/13-15:50</td><TD>5</TD><TD>27</TD><TD>11</TD><TD>352</TD><TD>91</TD></tr>
+<tr><td>27/07/13-16:00</td><TD>4</TD><TD>27</TD><TD>8</TD><TD>342</TD><TD>85</TD></tr>
+<tr><td>27/07/13-16:10</td><TD>5</TD><TD>28</TD><TD>42</TD><TD>386</TD><TD>70</TD></tr>
+<tr><td>27/07/13-16:20</td><TD>5</TD><TD>28</TD><TD>26</TD><TD>386</TD><TD>71</TD></tr>
+<tr><td>27/07/13-16:30</td><TD>5</TD><TD>27</TD><TD>12</TD><TD>364</TD><TD>80</TD></tr>
+<tr><td>27/07/13-16:40</td><TD>4</TD><TD>27</TD><TD>7</TD><TD>346</TD><TD>80</TD></tr>
+<tr><td>27/07/13-16:50</td><TD>4</TD><TD>28</TD><TD>9</TD><TD>362</TD><TD>74</TD></tr>
+<tr><td>27/07/13-17:00</td><TD>5</TD><TD>27</TD><TD>10</TD><TD>369</TD><TD>76</TD></tr>
+<tr><td>27/07/13-17:10</td><TD>4</TD><TD>31</TD><TD>7</TD><TD>348</TD><TD>78</TD></tr>
+<tr><td>27/07/13-17:20</td><TD>4</TD><TD>32</TD><TD>9</TD><TD>366</TD><TD>76</TD></tr>
+<tr><td>27/07/13-17:30</td><TD>4</TD><TD>32</TD><TD>6</TD><TD>353</TD><TD>77</TD></tr>
+<tr><td>27/07/13-17:40</td><TD>5</TD><TD>32</TD><TD>22</TD><TD>367</TD><TD>75</TD></tr>
+<tr><td>27/07/13-17:50</td><TD>5</TD><TD>32</TD><TD>59</TD><TD>375</TD><TD>74</TD></tr>
+<tr><td>27/07/13-18:00</td><TD>4</TD><TD>32</TD><TD>11</TD><TD>357</TD><TD>84</TD></tr>
+<tr><td>27/07/13-18:10</td><TD>4</TD><TD>30</TD><TD>11</TD><TD>367</TD><TD>82</TD></tr>
+<tr><td>27/07/13-18:20</td><TD>4</TD><TD>30</TD><TD>16</TD><TD>364</TD><TD>84</TD></tr>
+<tr><td>27/07/13-18:30</td><TD>4</TD><TD>30</TD><TD>14</TD><TD>388</TD><TD>84</TD></tr>
+<tr><td>27/07/13-18:40</td><TD>5</TD><TD>30</TD><TD>35</TD><TD>419</TD><TD>78</TD></tr>
+<tr><td>27/07/13-18:50</td><TD>5</TD><TD>30</TD><TD>17</TD><TD>378</TD><TD>83</TD></tr>
+<tr><td>27/07/13-19:00</td><TD>5</TD><TD>30</TD><TD>20</TD><TD>405</TD><TD>79</TD></tr>
+<tr><td>27/07/13-19:10</td><TD>6</TD><TD>30</TD><TD>30</TD><TD>391</TD><TD>75</TD></tr>
+<tr><td>27/07/13-19:20</td><TD>5</TD><TD>30</TD><TD>43</TD><TD>441</TD><TD>79</TD></tr>
+<tr><td>27/07/13-19:30</td><TD>6</TD><TD>29</TD><TD>43</TD><TD>415</TD><TD>76</TD></tr>
+<tr><td>27/07/13-19:40</td><TD>5</TD><TD>29</TD><TD>24</TD><TD>427</TD><TD>78</TD></tr>
+<tr><td>27/07/13-19:50</td><TD>5</TD><TD>29</TD><TD>26</TD><TD>432</TD><TD>80</TD></tr>
+<tr><td>27/07/13-20:00</td><TD>5</TD><TD>29</TD><TD>30</TD><TD>458</TD><TD>74</TD></tr>
+<tr><td>27/07/13-20:10</td><TD>5</TD><TD>31</TD><TD>19</TD><TD>437</TD><TD>82</TD></tr>
+<tr><td>27/07/13-20:20</td><TD>5</TD><TD>30</TD><TD>27</TD><TD>448</TD><TD>77</TD></tr>
+<tr><td>27/07/13-20:30</td><TD>5</TD><TD>31</TD><TD>18</TD><TD>411</TD><TD>88</TD></tr>
+<tr><td>27/07/13-20:40</td><TD>5</TD><TD>30</TD><TD>11</TD><TD>355</TD><TD>90</TD></tr>
+<tr><td>27/07/13-20:50</td><TD>4</TD><TD>31</TD><TD>13</TD><TD>397</TD><TD>83</TD></tr>
+<tr><td>27/07/13-21:00</td><TD>5</TD><TD>31</TD><TD>26</TD><TD>429</TD><TD>77</TD></tr>
+<tr><td>27/07/13-21:10</td><TD>5</TD><TD>34</TD><TD>23</TD><TD>433</TD><TD>78</TD></tr>
+<tr><td>27/07/13-21:20</td><TD>5</TD><TD>34</TD><TD>22</TD><TD>412</TD><TD>80</TD></tr>
+<tr><td>27/07/13-21:30</td><TD>5</TD><TD>34</TD><TD>13</TD><TD>362</TD><TD>84</TD></tr>
+<tr><td>27/07/13-21:40</td><TD>5</TD><TD>34</TD><TD>31</TD><TD>371</TD><TD>78</TD></tr>
+<tr><td>27/07/13-21:50</td><TD>4</TD><TD>34</TD><TD>25</TD><TD>371</TD><TD>70</TD></tr>
+<tr><td>27/07/13-22:00</td><TD>4</TD><TD>34</TD><TD>19</TD><TD>345</TD><TD>77</TD></tr>
+<tr><td>27/07/13-22:10</td><TD>4</TD><TD>27</TD><TD>15</TD><TD>345</TD><TD>77</TD></tr>
+<tr><td>27/07/13-22:20</td><TD>5</TD><TD>25</TD><TD>13</TD><TD>361</TD><TD>80</TD></tr>
+<tr><td>27/07/13-22:30</td><TD>4</TD><TD>25</TD><TD>14</TD><TD>357</TD><TD>74</TD></tr>
+<tr><td>27/07/13-22:40</td><TD>5</TD><TD>26</TD><TD>26</TD><TD>360</TD><TD>50</TD></tr>
+<tr><td>27/07/13-22:50</td><TD>5</TD><TD>25</TD><TD>62</TD><TD>388</TD><TD>31</TD></tr>
+<tr><td>27/07/13-23:00</td><TD>5</TD><TD>25</TD><TD>47</TD><TD>370</TD><TD>43</TD></tr>
+<tr><td>27/07/13-23:10</td><TD>5</TD><TD>25</TD><TD>27</TD><TD>356</TD><TD>55</TD></tr>
+<tr><td>27/07/13-23:20</td><TD>5</TD><TD>25</TD><TD>20</TD><TD>361</TD><TD>63</TD></tr>
+<tr><td>27/07/13-23:30</td><TD>5</TD><TD>25</TD><TD>16</TD><TD>352</TD><TD>63</TD></tr>
+<tr><td>27/07/13-23:40</td><TD>5</TD><TD>25</TD><TD>17</TD><TD>373</TD><TD>60</TD></tr>
+<tr><td>27/07/13-23:50</td><TD>5</TD><TD>25</TD><TD>20</TD><TD>367</TD><TD>54</TD></tr>
+<tr><td>28/07/13-00:00</td><TD>5</TD><TD>25</TD><TD>21</TD><TD>372</TD><TD>53</TD></tr>
+<tr><td colspan=6>
+<br><b>Nota:</b>Los datos, aqui publicados, no han sido sometidos al proceso de validacion.
+<br>Las unidades estan expresadas en microgramos/metrocubico(ug/m3).
+ 
+</td></tr></TABLE><br><br>
+<table cellspacing=0 cellpadding="0" border="1" width=90% align=CENTER><tr><td bgcolor=GRAY width=20%><div align="center"><font color="#FFFFFF"><b>Provincia</b></font></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;GRANADA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Municipio</font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;GRANADA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Estacion </font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;GRANADA-NORTE</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Direccion</font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;AVDA. LUIS MIRANDA DÓVALOS</b></td></tr></table>
+<br>
+<table align=CENTER cellspacing=0 cellpadding="0" border="1" width=90%><tr bgcolor=gray align=center><td class="CabTabla" width=30%><b>FECHA-HORA</b></td>
+<td class="CabTabla"><b>SO2</b></td>
+<td class="CabTabla"><b>PART</b></td>
+<td class="CabTabla"><b>NO2</b></td>
+<td class="CabTabla"><b>CO</b></td>
+<td class="CabTabla"><b>O3</b></td>
+</tr>
+<tr><td>27/07/13-00:10</td><TD>6</TD><TD>26</TD><TD>31</TD><TD>228</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-00:20</td><TD>7</TD><TD>27</TD><TD>32</TD><TD>275</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-00:30</td><TD>7</TD><TD>26</TD><TD>33</TD><TD>226</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-00:40</td><TD>7</TD><TD>28</TD><TD>30</TD><TD>286</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-00:50</td><TD>7</TD><TD>29</TD><TD>27</TD><TD>245</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-01:00</td><TD>6</TD><TD>34</TD><TD>27</TD><TD>219</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-01:10</td><TD>7</TD><TD>45</TD><TD>30</TD><TD>220</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-01:20</td><TD>7</TD><TD>43</TD><TD>30</TD><TD>213</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-01:30</td><TD>6</TD><TD>33</TD><TD>19</TD><TD>219</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-01:40</td><TD>7</TD><TD>33</TD><TD>24</TD><TD>207</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-01:50</td><TD>6</TD><TD>33</TD><TD>16</TD><TD>209</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-02:00</td><TD>6</TD><TD>34</TD><TD>16</TD><TD>215</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-02:10</td><TD>7</TD><TD>34</TD><TD>15</TD><TD>213</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-02:20</td><TD>6</TD><TD>34</TD><TD>18</TD><TD>208</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-02:30</td><TD>6</TD><TD>33</TD><TD>20</TD><TD>237</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-02:40</td><TD>6</TD><TD>33</TD><TD>23</TD><TD>219</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-02:50</td><TD>6</TD><TD>34</TD><TD>25</TD><TD>209</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-03:00</td><TD>7</TD><TD>34</TD><TD>33</TD><TD>220</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-03:10</td><TD>7</TD><TD>32</TD><TD>23</TD><TD>217</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-03:20</td><TD>7</TD><TD>32</TD><TD>26</TD><TD>218</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-03:30</td><TD>8</TD><TD>28</TD><TD>21</TD><TD>210</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-03:40</td><TD>9</TD><TD>26</TD><TD>16</TD><TD>193</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-03:50</td><TD>13</TD><TD>26</TD><TD>23</TD><TD>189</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-04:00</td><TD>9</TD><TD>24</TD><TD>20</TD><TD>188</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-04:10</td><TD>7</TD><TD>25</TD><TD>13</TD><TD>180</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-04:20</td><TD>7</TD><TD>27</TD><TD>17</TD><TD>208</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-04:30</td><TD>7</TD><TD>27</TD><TD>18</TD><TD>213</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-04:40</td><TD>7</TD><TD>27</TD><TD>21</TD><TD>212</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-04:50</td><TD>7</TD><TD>25</TD><TD>18</TD><TD>203</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-05:00</td><TD>7</TD><TD>24</TD><TD>21</TD><TD>214</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-05:10</td><TD>7</TD><TD>24</TD><TD>17</TD><TD>206</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-05:20</td><TD>6</TD><TD>22</TD><TD>15</TD><TD>177</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-05:30</td><TD>7</TD><TD>22</TD><TD>16</TD><TD>209</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-05:40</td><TD>7</TD><TD>24</TD><TD>24</TD><TD>318</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-05:50</td><TD>7</TD><TD>24</TD><TD>32</TD><TD>199</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-06:00</td><TD>8</TD><TD>24</TD><TD>35</TD><TD>275</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-06:10</td><TD>7</TD><TD>23</TD><TD>20</TD><TD>228</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-06:20</td><TD>7</TD><TD>24</TD><TD>27</TD><TD>258</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-06:30</td><TD>7</TD><TD>24</TD><TD>33</TD><TD>289</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-06:40</td><TD>8</TD><TD>24</TD><TD>35</TD><TD>236</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-06:50</td><TD>7</TD><TD>24</TD><TD>28</TD><TD>264</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-07:00</td><TD>7</TD><TD>25</TD><TD>32</TD><TD>215</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-07:10</td><TD>7</TD><TD>26</TD><TD>46</TD><TD>229</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-07:20</td><TD>8</TD><TD>27</TD><TD>42</TD><TD>211</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-07:30</td><TD>7</TD><TD>28</TD><TD>55</TD><TD>218</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-07:40</td><TD>7</TD><TD>29</TD><TD>52</TD><TD>221</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-07:50</td><TD>6</TD><TD>28</TD><TD>38</TD><TD>241</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-08:00</td><TD>6</TD><TD>30</TD><TD>42</TD><TD>262</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-08:10</td><TD>7</TD><TD>29</TD><TD>31</TD><TD>212</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-08:20</td><TD>7</TD><TD>32</TD><TD>31</TD><TD>222</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-08:30</td><TD>7</TD><TD>30</TD><TD>36</TD><TD>224</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-08:40</td><TD>7</TD><TD>32</TD><TD>24</TD><TD>284</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-08:50</td><TD>6</TD><TD>32</TD><TD>26</TD><TD>220</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-09:00</td><TD>7</TD><TD>29</TD><TD>29</TD><TD>233</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-09:10</td><TD>7</TD><TD>28</TD><TD>25</TD><TD>225</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-09:20</td><TD>8</TD><TD>28</TD><TD>29</TD><TD>275</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-09:30</td><TD>7</TD><TD>29</TD><TD>32</TD><TD>265</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-09:40</td><TD>7</TD><TD>28</TD><TD>33</TD><TD>257</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-09:50</td><TD>7</TD><TD>26</TD><TD>30</TD><TD>262</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-10:00</td><TD>6</TD><TD>26</TD><TD>26</TD><TD>291</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-10:10</td><TD>6</TD><TD>25</TD><TD>18</TD><TD>233</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-10:20</td><TD>6</TD><TD>24</TD><TD>15</TD><TD>209</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-10:30</td><TD>7</TD><TD>23</TD><TD>12</TD><TD>209</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-10:40</td><TD>7</TD><TD>23</TD><TD>10</TD><TD>218</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-10:50</td><TD>6</TD><TD>23</TD><TD>11</TD><TD>219</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-11:00</td><TD>7</TD><TD>25</TD><TD>15</TD><TD>265</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-11:10</td><TD>6</TD><TD>25</TD><TD>11</TD><TD>234</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-11:20</td><TD>5</TD><TD>22</TD><TD>17</TD><TD>226</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-11:30</td><TD>6</TD><TD>23</TD><TD>19</TD><TD>221</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-11:40</td><TD>6</TD><TD>24</TD><TD>10</TD><TD>212</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-11:50</td><TD>7</TD><TD>24</TD><TD>10</TD><TD>241</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-12:00</td><TD>7</TD><TD>23</TD><TD>20</TD><TD>291</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-12:10</td><TD>6</TD><TD>22</TD><TD>13</TD><TD>254</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-12:20</td><TD>6</TD><TD>21</TD><TD>11</TD><TD>241</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-12:30</td><TD>6</TD><TD>19</TD><TD>10</TD><TD>216</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-12:40</td><TD>6</TD><TD>20</TD><TD>17</TD><TD>230</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-12:50</td><TD>6</TD><TD>21</TD><TD>20</TD><TD>218</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-13:00</td><TD>7</TD><TD>20</TD><TD>18</TD><TD>246</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-13:10</td><TD>6</TD><TD>18</TD><TD>18</TD><TD>329</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-13:20</td><TD>6</TD><TD>15</TD><TD>12</TD><TD>210</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-13:30</td><TD>6</TD><TD>16</TD><TD>16</TD><TD>210</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-13:40</td><TD>6</TD><TD>16</TD><TD>12</TD><TD>204</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-13:50</td><TD>6</TD><TD>15</TD><TD>12</TD><TD>184</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-14:00</td><TD>6</TD><TD>14</TD><TD>8</TD><TD>232</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-14:10</td><TD>5</TD><TD>15</TD><TD>9</TD><TD>208</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-14:20</td><TD>6</TD><TD>16</TD><TD>14</TD><TD>245</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-14:30</td><TD>6</TD><TD>16</TD><TD>12</TD><TD>230</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-14:40</td><TD>6</TD><TD>16</TD><TD>18</TD><TD>227</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-14:50</td><TD>6</TD><TD>18</TD><TD>11</TD><TD>202</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-15:00</td><TD>6</TD><TD>19</TD><TD>9</TD><TD>216</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-15:10</td><TD>5</TD><TD>19</TD><TD>8</TD><TD>201</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-15:20</td><TD>6</TD><TD>20</TD><TD>8</TD><TD>216</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-15:30</td><TD>6</TD><TD>21</TD><TD>8</TD><TD>240</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-15:40</td><TD>6</TD><TD>23</TD><TD>9</TD><TD>249</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-15:50</td><TD>5</TD><TD>22</TD><TD>9</TD><TD>219</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-16:00</td><TD>6</TD><TD>21</TD><TD>7</TD><TD>211</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-16:10</td><TD>6</TD><TD>22</TD><TD>18</TD><TD>206</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-16:20</td><TD>6</TD><TD>21</TD><TD>18</TD><TD>208</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-16:30</td><TD>6</TD><TD>22</TD><TD>18</TD><TD>233</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-16:40</td><TD>6</TD><TD>22</TD><TD>9</TD><TD>216</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-16:50</td><TD>6</TD><TD>21</TD><TD>10</TD><TD>268</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-17:00</td><TD>6</TD><TD>19</TD><TD>12</TD><TD>202</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-17:10</td><TD>6</TD><TD>20</TD><TD>15</TD><TD>198</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-17:20</td><TD>6</TD><TD>21</TD><TD>9</TD><TD>202</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-17:30</td><TD>6</TD><TD>21</TD><TD>10</TD><TD>211</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-17:40</td><TD>5</TD><TD>20</TD><TD>9</TD><TD>208</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-17:50</td><TD>6</TD><TD>20</TD><TD>16</TD><TD>232</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-18:00</td><TD>6</TD><TD>20</TD><TD>8</TD><TD>212</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-18:10</td><TD>6</TD><TD>20</TD><TD>11</TD><TD>239</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-18:20</td><TD>6</TD><TD>19</TD><TD>9</TD><TD>210</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-18:30</td><TD>5</TD><TD>19</TD><TD>13</TD><TD>227</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-18:40</td><TD>6</TD><TD>18</TD><TD>5</TD><TD>213</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-18:50</td><TD>6</TD><TD>18</TD><TD>15</TD><TD>204</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-19:00</td><TD>6</TD><TD>19</TD><TD>21</TD><TD>227</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-19:10</td><TD>6</TD><TD>18</TD><TD>14</TD><TD>217</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-19:20</td><TD>6</TD><TD>17</TD><TD>15</TD><TD>240</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-19:30</td><TD>6</TD><TD>17</TD><TD>14</TD><TD>226</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-19:40</td><TD>6</TD><TD>17</TD><TD>15</TD><TD>223</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-19:50</td><TD>6</TD><TD>16</TD><TD>17</TD><TD>219</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-20:00</td><TD>6</TD><TD>16</TD><TD>19</TD><TD>201</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-20:10</td><TD>6</TD><TD>16</TD><TD>12</TD><TD>205</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-20:20</td><TD>6</TD><TD>15</TD><TD>13</TD><TD>182</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-20:30</td><TD>6</TD><TD>15</TD><TD>13</TD><TD>231</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-20:40</td><TD>6</TD><TD>16</TD><TD>16</TD><TD>204</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-20:50</td><TD>5</TD><TD>16</TD><TD>16</TD><TD>281</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-21:00</td><TD>6</TD><TD>16</TD><TD>22</TD><TD>264</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-21:10</td><TD>6</TD><TD>18</TD><TD>29</TD><TD>335</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-21:20</td><TD>6</TD><TD>18</TD><TD>29</TD><TD>275</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-21:30</td><TD>6</TD><TD>20</TD><TD>28</TD><TD>237</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-21:40</td><TD>6</TD><TD>21</TD><TD>34</TD><TD>251</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-21:50</td><TD>5</TD><TD>19</TD><TD>26</TD><TD>288</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-22:00</td><TD>6</TD><TD>19</TD><TD>20</TD><TD>245</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-22:10</td><TD>6</TD><TD>19</TD><TD>17</TD><TD>233</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-22:20</td><TD>6</TD><TD>19</TD><TD>18</TD><TD>209</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-22:30</td><TD>6</TD><TD>19</TD><TD>18</TD><TD>250</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-22:40</td><TD>6</TD><TD>17</TD><TD>19</TD><TD>197</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-22:50</td><TD>6</TD><TD>16</TD><TD>21</TD><TD>200</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-23:00</td><TD>5</TD><TD>16</TD><TD>15</TD><TD>217</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-23:10</td><TD>5</TD><TD>16</TD><TD>20</TD><TD>220</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-23:20</td><TD>6</TD><TD>16</TD><TD>14</TD><TD>194</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-23:30</td><TD>6</TD><TD>15</TD><TD>24</TD><TD>192</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-23:40</td><TD>5</TD><TD>14</TD><TD>15</TD><TD>190</TD><TD>&nbsp;</TD></tr>
+<tr><td>27/07/13-23:50</td><TD>7</TD><TD>14</TD><TD>13</TD><TD>196</TD><TD>&nbsp;</TD></tr>
+<tr><td>28/07/13-00:00</td><TD>7</TD><TD>13</TD><TD>13</TD><TD>219</TD><TD>&nbsp;</TD></tr>
+<tr><td colspan=6>
+<br><b>Nota:</b>Los datos, aqui publicados, no han sido sometidos al proceso de validacion.
+<br>Las unidades estan expresadas en microgramos/metrocubico(ug/m3).
+ 
+</td></tr></TABLE><br><br>
+<table cellspacing=0 cellpadding="0" border="1" width=90% align=CENTER><tr><td bgcolor=GRAY width=20%><div align="center"><font color="#FFFFFF"><b>Provincia</b></font></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;GRANADA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Municipio</font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;GRANADA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Estacion </font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;PALACIO DE CONGRESOS</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Direccion</font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;PASEO DE VIOLÓN S/N</b></td></tr></table>
+<br>
+<table align=CENTER cellspacing=0 cellpadding="0" border="1" width=90%><tr bgcolor=gray align=center><td class="CabTabla" width=30%><b>FECHA-HORA</b></td>
+<td class="CabTabla"><b>SO2</b></td>
+<td class="CabTabla"><b>PART</b></td>
+<td class="CabTabla"><b>NO2</b></td>
+<td class="CabTabla"><b>CO</b></td>
+<td class="CabTabla"><b>O3</b></td>
+</tr>
+<tr><td>27/07/13-00:10</td><TD>17</TD><TD>29</TD><TD>45</TD><TD>247</TD><TD>48</TD></tr>
+<tr><td>27/07/13-00:20</td><TD>17</TD><TD>27</TD><TD>39</TD><TD>243</TD><TD>55</TD></tr>
+<tr><td>27/07/13-00:30</td><TD>16</TD><TD>26</TD><TD>35</TD><TD>250</TD><TD>54</TD></tr>
+<tr><td>27/07/13-00:40</td><TD>15</TD><TD>27</TD><TD>36</TD><TD>282</TD><TD>50</TD></tr>
+<tr><td>27/07/13-00:50</td><TD>15</TD><TD>27</TD><TD>39</TD><TD>301</TD><TD>47</TD></tr>
+<tr><td>27/07/13-01:00</td><TD>15</TD><TD>26</TD><TD>44</TD><TD>296</TD><TD>52</TD></tr>
+<tr><td>27/07/13-01:10</td><TD>13</TD><TD>26</TD><TD>36</TD><TD>287</TD><TD>54</TD></tr>
+<tr><td>27/07/13-01:20</td><TD>14</TD><TD>26</TD><TD>31</TD><TD>238</TD><TD>59</TD></tr>
+<tr><td>27/07/13-01:30</td><TD>13</TD><TD>26</TD><TD>27</TD><TD>248</TD><TD>60</TD></tr>
+<tr><td>27/07/13-01:40</td><TD>14</TD><TD>26</TD><TD>33</TD><TD>260</TD><TD>50</TD></tr>
+<tr><td>27/07/13-01:50</td><TD>13</TD><TD>28</TD><TD>39</TD><TD>277</TD><TD>45</TD></tr>
+<tr><td>27/07/13-02:00</td><TD>12</TD><TD>27</TD><TD>30</TD><TD>258</TD><TD>55</TD></tr>
+<tr><td>27/07/13-02:10</td><TD>13</TD><TD>26</TD><TD>21</TD><TD>240</TD><TD>57</TD></tr>
+<tr><td>27/07/13-02:20</td><TD>12</TD><TD>26</TD><TD>21</TD><TD>227</TD><TD>57</TD></tr>
+<tr><td>27/07/13-02:30</td><TD>13</TD><TD>26</TD><TD>19</TD><TD>239</TD><TD>57</TD></tr>
+<tr><td>27/07/13-02:40</td><TD>12</TD><TD>26</TD><TD>18</TD><TD>224</TD><TD>58</TD></tr>
+<tr><td>27/07/13-02:50</td><TD>12</TD><TD>26</TD><TD>19</TD><TD>235</TD><TD>57</TD></tr>
+<tr><td>27/07/13-03:00</td><TD>11</TD><TD>25</TD><TD>20</TD><TD>249</TD><TD>56</TD></tr>
+<tr><td>27/07/13-03:10</td><TD>13</TD><TD>25</TD><TD>19</TD><TD>260</TD><TD>57</TD></tr>
+<tr><td>27/07/13-03:20</td><TD>13</TD><TD>25</TD><TD>20</TD><TD>259</TD><TD>56</TD></tr>
+<tr><td>27/07/13-03:30</td><TD>12</TD><TD>25</TD><TD>20</TD><TD>241</TD><TD>63</TD></tr>
+<tr><td>27/07/13-03:40</td><TD>13</TD><TD>23</TD><TD>17</TD><TD>219</TD><TD>70</TD></tr>
+<tr><td>27/07/13-03:50</td><TD>12</TD><TD>21</TD><TD>15</TD><TD>241</TD><TD>71</TD></tr>
+<tr><td>27/07/13-04:00</td><TD>14</TD><TD>21</TD><TD>17</TD><TD>226</TD><TD>69</TD></tr>
+<tr><td>27/07/13-04:10</td><TD>16</TD><TD>21</TD><TD>15</TD><TD>216</TD><TD>68</TD></tr>
+<tr><td>27/07/13-04:20</td><TD>14</TD><TD>20</TD><TD>14</TD><TD>216</TD><TD>71</TD></tr>
+<tr><td>27/07/13-04:30</td><TD>13</TD><TD>20</TD><TD>10</TD><TD>207</TD><TD>73</TD></tr>
+<tr><td>27/07/13-04:40</td><TD>14</TD><TD>21</TD><TD>12</TD><TD>206</TD><TD>65</TD></tr>
+<tr><td>27/07/13-04:50</td><TD>17</TD><TD>23</TD><TD>24</TD><TD>215</TD><TD>53</TD></tr>
+<tr><td>27/07/13-05:00</td><TD>16</TD><TD>23</TD><TD>24</TD><TD>222</TD><TD>57</TD></tr>
+<tr><td>27/07/13-05:10</td><TD>15</TD><TD>22</TD><TD>16</TD><TD>216</TD><TD>64</TD></tr>
+<tr><td>27/07/13-05:20</td><TD>15</TD><TD>23</TD><TD>15</TD><TD>207</TD><TD>66</TD></tr>
+<tr><td>27/07/13-05:30</td><TD>14</TD><TD>21</TD><TD>13</TD><TD>212</TD><TD>72</TD></tr>
+<tr><td>27/07/13-05:40</td><TD>15</TD><TD>21</TD><TD>11</TD><TD>198</TD><TD>72</TD></tr>
+<tr><td>27/07/13-05:50</td><TD>15</TD><TD>21</TD><TD>12</TD><TD>209</TD><TD>73</TD></tr>
+<tr><td>27/07/13-06:00</td><TD>14</TD><TD>21</TD><TD>11</TD><TD>191</TD><TD>74</TD></tr>
+<tr><td>27/07/13-06:10</td><TD>14</TD><TD>20</TD><TD>9</TD><TD>204</TD><TD>78</TD></tr>
+<tr><td>27/07/13-06:20</td><TD>15</TD><TD>20</TD><TD>8</TD><TD>194</TD><TD>79</TD></tr>
+<tr><td>27/07/13-06:30</td><TD>14</TD><TD>20</TD><TD>7</TD><TD>204</TD><TD>82</TD></tr>
+<tr><td>27/07/13-06:40</td><TD>16</TD><TD>22</TD><TD>9</TD><TD>210</TD><TD>76</TD></tr>
+<tr><td>27/07/13-06:50</td><TD>15</TD><TD>21</TD><TD>10</TD><TD>199</TD><TD>77</TD></tr>
+<tr><td>27/07/13-07:00</td><TD>15</TD><TD>21</TD><TD>8</TD><TD>197</TD><TD>83</TD></tr>
+<tr><td>27/07/13-07:10</td><TD>15</TD><TD>21</TD><TD>8</TD><TD>192</TD><TD>81</TD></tr>
+<tr><td>27/07/13-07:20</td><TD>13</TD><TD>21</TD><TD>19</TD><TD>221</TD><TD>62</TD></tr>
+<tr><td>27/07/13-07:30</td><TD>14</TD><TD>23</TD><TD>15</TD><TD>217</TD><TD>64</TD></tr>
+<tr><td>27/07/13-07:40</td><TD>12</TD><TD>25</TD><TD>20</TD><TD>231</TD><TD>57</TD></tr>
+<tr><td>27/07/13-07:50</td><TD>12</TD><TD>34</TD><TD>30</TD><TD>244</TD><TD>46</TD></tr>
+<tr><td>27/07/13-08:00</td><TD>12</TD><TD>25</TD><TD>30</TD><TD>242</TD><TD>48</TD></tr>
+<tr><td>27/07/13-08:10</td><TD>12</TD><TD>25</TD><TD>37</TD><TD>283</TD><TD>44</TD></tr>
+<tr><td>27/07/13-08:20</td><TD>13</TD><TD>26</TD><TD>40</TD><TD>248</TD><TD>48</TD></tr>
+<tr><td>27/07/13-08:30</td><TD>14</TD><TD>27</TD><TD>31</TD><TD>255</TD><TD>52</TD></tr>
+<tr><td>27/07/13-08:40</td><TD>13</TD><TD>28</TD><TD>34</TD><TD>250</TD><TD>47</TD></tr>
+<tr><td>27/07/13-08:50</td><TD>14</TD><TD>30</TD><TD>22</TD><TD>235</TD><TD>72</TD></tr>
+<tr><td>27/07/13-09:00</td><TD>13</TD><TD>29</TD><TD>15</TD><TD>225</TD><TD>82</TD></tr>
+<tr><td>27/07/13-09:10</td><TD>14</TD><TD>26</TD><TD>10</TD><TD>216</TD><TD>79</TD></tr>
+<tr><td>27/07/13-09:20</td><TD>15</TD><TD>26</TD><TD>17</TD><TD>220</TD><TD>78</TD></tr>
+<tr><td>27/07/13-09:30</td><TD>14</TD><TD>26</TD><TD>13</TD><TD>232</TD><TD>83</TD></tr>
+<tr><td>27/07/13-09:40</td><TD>13</TD><TD>27</TD><TD>12</TD><TD>260</TD><TD>82</TD></tr>
+<tr><td>27/07/13-09:50</td><TD>11</TD><TD>29</TD><TD>13</TD><TD>208</TD><TD>81</TD></tr>
+<tr><td>27/07/13-10:00</td><TD>13</TD><TD>28</TD><TD>18</TD><TD>225</TD><TD>72</TD></tr>
+<tr><td>27/07/13-10:10</td><TD>12</TD><TD>30</TD><TD>16</TD><TD>214</TD><TD>84</TD></tr>
+<tr><td>27/07/13-10:20</td><TD>13</TD><TD>32</TD><TD>9</TD><TD>209</TD><TD>92</TD></tr>
+<tr><td>27/07/13-10:30</td><TD>12</TD><TD>34</TD><TD>11</TD><TD>204</TD><TD>90</TD></tr>
+<tr><td>27/07/13-10:40</td><TD>13</TD><TD>26</TD><TD>10</TD><TD>214</TD><TD>89</TD></tr>
+<tr><td>27/07/13-10:50</td><TD>15</TD><TD>23</TD><TD>9</TD><TD>213</TD><TD>91</TD></tr>
+<tr><td>27/07/13-11:00</td><TD>14</TD><TD>24</TD><TD>10</TD><TD>207</TD><TD>89</TD></tr>
+<tr><td>27/07/13-11:10</td><TD>13</TD><TD>29</TD><TD>11</TD><TD>209</TD><TD>78</TD></tr>
+<tr><td>27/07/13-11:20</td><TD>13</TD><TD>27</TD><TD>13</TD><TD>189</TD><TD>75</TD></tr>
+<tr><td>27/07/13-11:30</td><TD>14</TD><TD>25</TD><TD>13</TD><TD>196</TD><TD>74</TD></tr>
+<tr><td>27/07/13-11:40</td><TD>14</TD><TD>27</TD><TD>13</TD><TD>216</TD><TD>73</TD></tr>
+<tr><td>27/07/13-11:50</td><TD>14</TD><TD>25</TD><TD>14</TD><TD>213</TD><TD>77</TD></tr>
+<tr><td>27/07/13-12:00</td><TD>14</TD><TD>26</TD><TD>13</TD><TD>225</TD><TD>81</TD></tr>
+<tr><td>27/07/13-12:10</td><TD>14</TD><TD>27</TD><TD>14</TD><TD>222</TD><TD>83</TD></tr>
+<tr><td>27/07/13-12:20</td><TD>14</TD><TD>25</TD><TD>12</TD><TD>212</TD><TD>83</TD></tr>
+<tr><td>27/07/13-12:30</td><TD>14</TD><TD>25</TD><TD>14</TD><TD>228</TD><TD>85</TD></tr>
+<tr><td>27/07/13-12:40</td><TD>13</TD><TD>25</TD><TD>13</TD><TD>215</TD><TD>90</TD></tr>
+<tr><td>27/07/13-12:50</td><TD>14</TD><TD>26</TD><TD>15</TD><TD>229</TD><TD>85</TD></tr>
+<tr><td>27/07/13-13:00</td><TD>15</TD><TD>25</TD><TD>17</TD><TD>248</TD><TD>87</TD></tr>
+<tr><td>27/07/13-13:10</td><TD>14</TD><TD>26</TD><TD>15</TD><TD>224</TD><TD>88</TD></tr>
+<tr><td>27/07/13-13:20</td><TD>13</TD><TD>23</TD><TD>13</TD><TD>213</TD><TD>91</TD></tr>
+<tr><td>27/07/13-13:30</td><TD>14</TD><TD>23</TD><TD>14</TD><TD>189</TD><TD>89</TD></tr>
+<tr><td>27/07/13-13:40</td><TD>13</TD><TD>39</TD><TD>14</TD><TD>194</TD><TD>84</TD></tr>
+<tr><td>27/07/13-13:50</td><TD>13</TD><TD>29</TD><TD>15</TD><TD>199</TD><TD>82</TD></tr>
+<tr><td>27/07/13-14:00</td><TD>13</TD><TD>33</TD><TD>15</TD><TD>218</TD><TD>80</TD></tr>
+<tr><td>27/07/13-14:10</td><TD>12</TD><TD>41</TD><TD>14</TD><TD>190</TD><TD>84</TD></tr>
+<tr><td>27/07/13-14:20</td><TD>13</TD><TD>43</TD><TD>15</TD><TD>203</TD><TD>78</TD></tr>
+<tr><td>27/07/13-14:30</td><TD>13</TD><TD>28</TD><TD>13</TD><TD>200</TD><TD>78</TD></tr>
+<tr><td>27/07/13-14:40</td><TD>15</TD><TD>25</TD><TD>11</TD><TD>206</TD><TD>79</TD></tr>
+<tr><td>27/07/13-14:50</td><TD>13</TD><TD>28</TD><TD>15</TD><TD>195</TD><TD>74</TD></tr>
+<tr><td>27/07/13-15:00</td><TD>13</TD><TD>112</TD><TD>13</TD><TD>211</TD><TD>72</TD></tr>
+<tr><td>27/07/13-15:10</td><TD>13</TD><TD>36</TD><TD>10</TD><TD>198</TD><TD>72</TD></tr>
+<tr><td>27/07/13-15:20</td><TD>12</TD><TD>32</TD><TD>9</TD><TD>194</TD><TD>74</TD></tr>
+<tr><td>27/07/13-15:30</td><TD>12</TD><TD>29</TD><TD>8</TD><TD>197</TD><TD>76</TD></tr>
+<tr><td>27/07/13-15:40</td><TD>13</TD><TD>29</TD><TD>8</TD><TD>194</TD><TD>79</TD></tr>
+<tr><td>27/07/13-15:50</td><TD>13</TD><TD>31</TD><TD>9</TD><TD>202</TD><TD>81</TD></tr>
+<tr><td>27/07/13-16:00</td><TD>13</TD><TD>33</TD><TD>10</TD><TD>209</TD><TD>81</TD></tr>
+<tr><td>27/07/13-16:10</td><TD>15</TD><TD>27</TD><TD>10</TD><TD>197</TD><TD>82</TD></tr>
+<tr><td>27/07/13-16:20</td><TD>14</TD><TD>26</TD><TD>8</TD><TD>192</TD><TD>82</TD></tr>
+<tr><td>27/07/13-16:30</td><TD>13</TD><TD>26</TD><TD>9</TD><TD>195</TD><TD>82</TD></tr>
+<tr><td>27/07/13-16:40</td><TD>14</TD><TD>25</TD><TD>8</TD><TD>191</TD><TD>86</TD></tr>
+<tr><td>27/07/13-16:50</td><TD>12</TD><TD>26</TD><TD>9</TD><TD>213</TD><TD>87</TD></tr>
+<tr><td>27/07/13-17:00</td><TD>12</TD><TD>33</TD><TD>10</TD><TD>202</TD><TD>85</TD></tr>
+<tr><td>27/07/13-17:10</td><TD>12</TD><TD>25</TD><TD>12</TD><TD>189</TD><TD>82</TD></tr>
+<tr><td>27/07/13-17:20</td><TD>13</TD><TD>27</TD><TD>11</TD><TD>197</TD><TD>80</TD></tr>
+<tr><td>27/07/13-17:30</td><TD>13</TD><TD>24</TD><TD>9</TD><TD>192</TD><TD>81</TD></tr>
+<tr><td>27/07/13-17:40</td><TD>13</TD><TD>24</TD><TD>9</TD><TD>189</TD><TD>80</TD></tr>
+<tr><td>27/07/13-17:50</td><TD>14</TD><TD>24</TD><TD>9</TD><TD>190</TD><TD>83</TD></tr>
+<tr><td>27/07/13-18:00</td><TD>13</TD><TD>24</TD><TD>11</TD><TD>190</TD><TD>81</TD></tr>
+<tr><td>27/07/13-18:10</td><TD>14</TD><TD>25</TD><TD>12</TD><TD>200</TD><TD>81</TD></tr>
+<tr><td>27/07/13-18:20</td><TD>15</TD><TD>23</TD><TD>14</TD><TD>207</TD><TD>78</TD></tr>
+<tr><td>27/07/13-18:30</td><TD>15</TD><TD>24</TD><TD>12</TD><TD>188</TD><TD>79</TD></tr>
+<tr><td>27/07/13-18:40</td><TD>14</TD><TD>23</TD><TD>10</TD><TD>198</TD><TD>80</TD></tr>
+<tr><td>27/07/13-18:50</td><TD>14</TD><TD>22</TD><TD>8</TD><TD>196</TD><TD>81</TD></tr>
+<tr><td>27/07/13-19:00</td><TD>13</TD><TD>22</TD><TD>10</TD><TD>197</TD><TD>80</TD></tr>
+<tr><td>27/07/13-19:10</td><TD>12</TD><TD>23</TD><TD>10</TD><TD>216</TD><TD>80</TD></tr>
+<tr><td>27/07/13-19:20</td><TD>12</TD><TD>24</TD><TD>9</TD><TD>207</TD><TD>82</TD></tr>
+<tr><td>27/07/13-19:30</td><TD>13</TD><TD>23</TD><TD>8</TD><TD>203</TD><TD>83</TD></tr>
+<tr><td>27/07/13-19:40</td><TD>13</TD><TD>22</TD><TD>10</TD><TD>211</TD><TD>79</TD></tr>
+<tr><td>27/07/13-19:50</td><TD>11</TD><TD>31</TD><TD>9</TD><TD>196</TD><TD>82</TD></tr>
+<tr><td>27/07/13-20:00</td><TD>13</TD><TD>27</TD><TD>11</TD><TD>208</TD><TD>79</TD></tr>
+<tr><td>27/07/13-20:10</td><TD>12</TD><TD>24</TD><TD>12</TD><TD>195</TD><TD>78</TD></tr>
+<tr><td>27/07/13-20:20</td><TD>13</TD><TD>24</TD><TD>14</TD><TD>219</TD><TD>79</TD></tr>
+<tr><td>27/07/13-20:30</td><TD>13</TD><TD>22</TD><TD>13</TD><TD>213</TD><TD>78</TD></tr>
+<tr><td>27/07/13-20:40</td><TD>13</TD><TD>25</TD><TD>14</TD><TD>225</TD><TD>75</TD></tr>
+<tr><td>27/07/13-20:50</td><TD>14</TD><TD>24</TD><TD>16</TD><TD>211</TD><TD>77</TD></tr>
+<tr><td>27/07/13-21:00</td><TD>12</TD><TD>24</TD><TD>13</TD><TD>203</TD><TD>81</TD></tr>
+<tr><td>27/07/13-21:10</td><TD>13</TD><TD>23</TD><TD>13</TD><TD>220</TD><TD>78</TD></tr>
+<tr><td>27/07/13-21:20</td><TD>14</TD><TD>27</TD><TD>16</TD><TD>210</TD><TD>75</TD></tr>
+<tr><td>27/07/13-21:30</td><TD>13</TD><TD>24</TD><TD>17</TD><TD>214</TD><TD>72</TD></tr>
+<tr><td>27/07/13-21:40</td><TD>13</TD><TD>28</TD><TD>20</TD><TD>225</TD><TD>68</TD></tr>
+<tr><td>27/07/13-21:50</td><TD>13</TD><TD>38</TD><TD>21</TD><TD>235</TD><TD>68</TD></tr>
+<tr><td>27/07/13-22:00</td><TD>12</TD><TD>30</TD><TD>23</TD><TD>250</TD><TD>63</TD></tr>
+<tr><td>27/07/13-22:10</td><TD>11</TD><TD>31</TD><TD>24</TD><TD>251</TD><TD>64</TD></tr>
+<tr><td>27/07/13-22:20</td><TD>12</TD><TD>26</TD><TD>20</TD><TD>228</TD><TD>67</TD></tr>
+<tr><td>27/07/13-22:30</td><TD>12</TD><TD>30</TD><TD>19</TD><TD>227</TD><TD>68</TD></tr>
+<tr><td>27/07/13-22:40</td><TD>12</TD><TD>33</TD><TD>19</TD><TD>242</TD><TD>66</TD></tr>
+<tr><td>27/07/13-22:50</td><TD>13</TD><TD>35</TD><TD>18</TD><TD>221</TD><TD>71</TD></tr>
+<tr><td>27/07/13-23:00</td><TD>11</TD><TD>34</TD><TD>14</TD><TD>223</TD><TD>71</TD></tr>
+<tr><td>27/07/13-23:10</td><TD>12</TD><TD>21</TD><TD>14</TD><TD>237</TD><TD>70</TD></tr>
+<tr><td>27/07/13-23:20</td><TD>11</TD><TD>22</TD><TD>19</TD><TD>247</TD><TD>70</TD></tr>
+<tr><td>27/07/13-23:30</td><TD>12</TD><TD>20</TD><TD>15</TD><TD>240</TD><TD>74</TD></tr>
+<tr><td>27/07/13-23:40</td><TD>11</TD><TD>18</TD><TD>11</TD><TD>224</TD><TD>79</TD></tr>
+<tr><td>27/07/13-23:50</td><TD>11</TD><TD>17</TD><TD>16</TD><TD>230</TD><TD>75</TD></tr>
+<tr><td>28/07/13-00:00</td><TD>11</TD><TD>15</TD><TD>11</TD><TD>234</TD><TD>79</TD></tr>
+<tr><td colspan=6>
+<br><b>Nota:</b>Los datos, aqui publicados, no han sido sometidos al proceso de validacion.
+<br>Las unidades estan expresadas en microgramos/metrocubico(ug/m3).
+ 
+</td></tr></TABLE><br><br>
+<table cellspacing=0 cellpadding="0" border="1" width=90% align=CENTER><tr><td bgcolor=GRAY width=20%><div align="center"><font color="#FFFFFF"><b>Provincia</b></font></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;GRANADA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Municipio</font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;ARMILLA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Estacion </font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;CIUDAD DEPORTIVA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Direccion</font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;AVDA. PIERRE DE COUBERTAIN S/N</b></td></tr></table>
+<br>
+<table align=CENTER cellspacing=0 cellpadding="0" border="1" width=90%><tr bgcolor=gray align=center><td class="CabTabla" width=30%><b>FECHA-HORA</b></td>
+<td class="CabTabla"><b>SO2</b></td>
+<td class="CabTabla"><b>PART</b></td>
+<td class="CabTabla"><b>NO2</b></td>
+<td class="CabTabla"><b>CO</b></td>
+<td class="CabTabla"><b>O3</b></td>
+</tr>
+<tr><td>27/07/13-00:10</td><TD>10</TD><TD>38</TD><TD>22</TD><TD>134</TD><TD>68</TD></tr>
+<tr><td>27/07/13-00:20</td><TD>9</TD><TD>38</TD><TD>22</TD><TD>133</TD><TD>68</TD></tr>
+<tr><td>27/07/13-00:30</td><TD>10</TD><TD>38</TD><TD>24</TD><TD>129</TD><TD>66</TD></tr>
+<tr><td>27/07/13-00:40</td><TD>10</TD><TD>39</TD><TD>21</TD><TD>136</TD><TD>76</TD></tr>
+<tr><td>27/07/13-00:50</td><TD>9</TD><TD>38</TD><TD>8</TD><TD>129</TD><TD>88</TD></tr>
+<tr><td>27/07/13-01:00</td><TD>11</TD><TD>38</TD><TD>8</TD><TD>131</TD><TD>86</TD></tr>
+<tr><td>27/07/13-01:10</td><TD>14</TD><TD>34</TD><TD>17</TD><TD>137</TD><TD>71</TD></tr>
+<tr><td>27/07/13-01:20</td><TD>10</TD><TD>34</TD><TD>12</TD><TD>134</TD><TD>79</TD></tr>
+<tr><td>27/07/13-01:30</td><TD>10</TD><TD>34</TD><TD>10</TD><TD>133</TD><TD>78</TD></tr>
+<tr><td>27/07/13-01:40</td><TD>8</TD><TD>34</TD><TD>11</TD><TD>133</TD><TD>75</TD></tr>
+<tr><td>27/07/13-01:50</td><TD>9</TD><TD>34</TD><TD>12</TD><TD>130</TD><TD>68</TD></tr>
+<tr><td>27/07/13-02:00</td><TD>11</TD><TD>34</TD><TD>15</TD><TD>132</TD><TD>63</TD></tr>
+<tr><td>27/07/13-02:10</td><TD>11</TD><TD>28</TD><TD>14</TD><TD>133</TD><TD>64</TD></tr>
+<tr><td>27/07/13-02:20</td><TD>11</TD><TD>28</TD><TD>12</TD><TD>126</TD><TD>67</TD></tr>
+<tr><td>27/07/13-02:30</td><TD>12</TD><TD>28</TD><TD>13</TD><TD>129</TD><TD>62</TD></tr>
+<tr><td>27/07/13-02:40</td><TD>11</TD><TD>28</TD><TD>14</TD><TD>146</TD><TD>61</TD></tr>
+<tr><td>27/07/13-02:50</td><TD>12</TD><TD>28</TD><TD>19</TD><TD>160</TD><TD>56</TD></tr>
+<tr><td>27/07/13-03:00</td><TD>12</TD><TD>28</TD><TD>19</TD><TD>173</TD><TD>53</TD></tr>
+<tr><td>27/07/13-03:10</td><TD>12</TD><TD>33</TD><TD>18</TD><TD>170</TD><TD>56</TD></tr>
+<tr><td>27/07/13-03:20</td><TD>8</TD><TD>33</TD><TD>8</TD><TD>148</TD><TD>80</TD></tr>
+<tr><td>27/07/13-03:30</td><TD>9</TD><TD>33</TD><TD>6</TD><TD>138</TD><TD>79</TD></tr>
+<tr><td>27/07/13-03:40</td><TD>9</TD><TD>33</TD><TD>5</TD><TD>136</TD><TD>81</TD></tr>
+<tr><td>27/07/13-03:50</td><TD>8</TD><TD>33</TD><TD>3</TD><TD>140</TD><TD>83</TD></tr>
+<tr><td>27/07/13-04:00</td><TD>8</TD><TD>32</TD><TD>3</TD><TD>135</TD><TD>79</TD></tr>
+<tr><td>27/07/13-04:10</td><TD>8</TD><TD>26</TD><TD>4</TD><TD>136</TD><TD>75</TD></tr>
+<tr><td>27/07/13-04:20</td><TD>8</TD><TD>26</TD><TD>4</TD><TD>136</TD><TD>74</TD></tr>
+<tr><td>27/07/13-04:30</td><TD>7</TD><TD>27</TD><TD>3</TD><TD>135</TD><TD>79</TD></tr>
+<tr><td>27/07/13-04:40</td><TD>8</TD><TD>26</TD><TD>3</TD><TD>134</TD><TD>81</TD></tr>
+<tr><td>27/07/13-04:50</td><TD>8</TD><TD>26</TD><TD>3</TD><TD>137</TD><TD>83</TD></tr>
+<tr><td>27/07/13-05:00</td><TD>8</TD><TD>26</TD><TD>2</TD><TD>131</TD><TD>82</TD></tr>
+<tr><td>27/07/13-05:10</td><TD>8</TD><TD>26</TD><TD>3</TD><TD>130</TD><TD>81</TD></tr>
+<tr><td>27/07/13-05:20</td><TD>8</TD><TD>26</TD><TD>2</TD><TD>139</TD><TD>82</TD></tr>
+<tr><td>27/07/13-05:30</td><TD>8</TD><TD>26</TD><TD>2</TD><TD>129</TD><TD>83</TD></tr>
+<tr><td>27/07/13-05:40</td><TD>8</TD><TD>26</TD><TD>1</TD><TD>132</TD><TD>83</TD></tr>
+<tr><td>27/07/13-05:50</td><TD>8</TD><TD>26</TD><TD>2</TD><TD>138</TD><TD>82</TD></tr>
+<tr><td>27/07/13-06:00</td><TD>7</TD><TD>26</TD><TD>2</TD><TD>133</TD><TD>79</TD></tr>
+<tr><td>27/07/13-06:10</td><TD>8</TD><TD>28</TD><TD>4</TD><TD>130</TD><TD>73</TD></tr>
+<tr><td>27/07/13-06:20</td><TD>7</TD><TD>28</TD><TD>7</TD><TD>132</TD><TD>68</TD></tr>
+<tr><td>27/07/13-06:30</td><TD>8</TD><TD>28</TD><TD>10</TD><TD>133</TD><TD>66</TD></tr>
+<tr><td>27/07/13-06:40</td><TD>8</TD><TD>28</TD><TD>10</TD><TD>133</TD><TD>65</TD></tr>
+<tr><td>27/07/13-06:50</td><TD>7</TD><TD>28</TD><TD>9</TD><TD>131</TD><TD>65</TD></tr>
+<tr><td>27/07/13-07:00</td><TD>8</TD><TD>28</TD><TD>11</TD><TD>134</TD><TD>61</TD></tr>
+<tr><td>27/07/13-07:10</td><TD>8</TD><TD>32</TD><TD>13</TD><TD>136</TD><TD>55</TD></tr>
+<tr><td>27/07/13-07:20</td><TD>7</TD><TD>32</TD><TD>19</TD><TD>135</TD><TD>49</TD></tr>
+<tr><td>27/07/13-07:30</td><TD>7</TD><TD>32</TD><TD>25</TD><TD>131</TD><TD>41</TD></tr>
+<tr><td>27/07/13-07:40</td><TD>8</TD><TD>32</TD><TD>26</TD><TD>131</TD><TD>40</TD></tr>
+<tr><td>27/07/13-07:50</td><TD>8</TD><TD>32</TD><TD>25</TD><TD>134</TD><TD>42</TD></tr>
+<tr><td>27/07/13-08:00</td><TD>9</TD><TD>33</TD><TD>27</TD><TD>135</TD><TD>42</TD></tr>
+<tr><td>27/07/13-08:10</td><TD>9</TD><TD>38</TD><TD>28</TD><TD>131</TD><TD>43</TD></tr>
+<tr><td>27/07/13-08:20</td><TD>10</TD><TD>38</TD><TD>25</TD><TD>131</TD><TD>48</TD></tr>
+<tr><td>27/07/13-08:30</td><TD>11</TD><TD>38</TD><TD>21</TD><TD>129</TD><TD>51</TD></tr>
+<tr><td>27/07/13-08:40</td><TD>11</TD><TD>39</TD><TD>25</TD><TD>131</TD><TD>49</TD></tr>
+<tr><td>27/07/13-08:50</td><TD>11</TD><TD>38</TD><TD>18</TD><TD>136</TD><TD>58</TD></tr>
+<tr><td>27/07/13-09:00</td><TD>12</TD><TD>38</TD><TD>18</TD><TD>149</TD><TD>61</TD></tr>
+<tr><td>27/07/13-09:10</td><TD>9</TD><TD>38</TD><TD>8</TD><TD>138</TD><TD>74</TD></tr>
+<tr><td>27/07/13-09:20</td><TD>8</TD><TD>38</TD><TD>6</TD><TD>135</TD><TD>80</TD></tr>
+<tr><td>27/07/13-09:30</td><TD>8</TD><TD>38</TD><TD>4</TD><TD>136</TD><TD>92</TD></tr>
+<tr><td>27/07/13-09:40</td><TD>9</TD><TD>38</TD><TD>3</TD><TD>138</TD><TD>93</TD></tr>
+<tr><td>27/07/13-09:50</td><TD>8</TD><TD>38</TD><TD>3</TD><TD>140</TD><TD>94</TD></tr>
+<tr><td>27/07/13-10:00</td><TD>8</TD><TD>38</TD><TD>2</TD><TD>134</TD><TD>93</TD></tr>
+<tr><td>27/07/13-10:10</td><TD>8</TD><TD>38</TD><TD>3</TD><TD>147</TD><TD>95</TD></tr>
+<tr><td>27/07/13-10:20</td><TD>8</TD><TD>38</TD><TD>2</TD><TD>127</TD><TD>94</TD></tr>
+<tr><td>27/07/13-10:30</td><TD>7</TD><TD>38</TD><TD>2</TD><TD>132</TD><TD>93</TD></tr>
+<tr><td>27/07/13-10:40</td><TD>8</TD><TD>38</TD><TD>1</TD><TD>127</TD><TD>94</TD></tr>
+<tr><td>27/07/13-10:50</td><TD>8</TD><TD>38</TD><TD>1</TD><TD>133</TD><TD>93</TD></tr>
+<tr><td>27/07/13-11:00</td><TD>8</TD><TD>37</TD><TD>1</TD><TD>130</TD><TD>93</TD></tr>
+<tr><td>27/07/13-11:10</td><TD>8</TD><TD>28</TD><TD>1</TD><TD>135</TD><TD>93</TD></tr>
+<tr><td>27/07/13-11:20</td><TD>8</TD><TD>28</TD><TD>3</TD><TD>149</TD><TD>80</TD></tr>
+<tr><td>27/07/13-11:30</td><TD>7</TD><TD>28</TD><TD>5</TD><TD>179</TD><TD>75</TD></tr>
+<tr><td>27/07/13-11:40</td><TD>7</TD><TD>28</TD><TD>4</TD><TD>168</TD><TD>77</TD></tr>
+<tr><td>27/07/13-11:50</td><TD>7</TD><TD>28</TD><TD>4</TD><TD>175</TD><TD>79</TD></tr>
+<tr><td>27/07/13-12:00</td><TD>7</TD><TD>28</TD><TD>4</TD><TD>166</TD><TD>79</TD></tr>
+<tr><td>27/07/13-12:10</td><TD>7</TD><TD>30</TD><TD>4</TD><TD>167</TD><TD>80</TD></tr>
+<tr><td>27/07/13-12:20</td><TD>7</TD><TD>30</TD><TD>4</TD><TD>164</TD><TD>82</TD></tr>
+<tr><td>27/07/13-12:30</td><TD>7</TD><TD>30</TD><TD>6</TD><TD>166</TD><TD>85</TD></tr>
+<tr><td>27/07/13-12:40</td><TD>7</TD><TD>30</TD><TD>7</TD><TD>166</TD><TD>87</TD></tr>
+<tr><td>27/07/13-12:50</td><TD>7</TD><TD>30</TD><TD>7</TD><TD>159</TD><TD>87</TD></tr>
+<tr><td>27/07/13-13:00</td><TD>7</TD><TD>30</TD><TD>4</TD><TD>138</TD><TD>89</TD></tr>
+<tr><td>27/07/13-13:10</td><TD>6</TD><TD>26</TD><TD>1</TD><TD>130</TD><TD>93</TD></tr>
+<tr><td>27/07/13-13:20</td><TD>7</TD><TD>26</TD><TD>1</TD><TD>130</TD><TD>96</TD></tr>
+<tr><td>27/07/13-13:30</td><TD>7</TD><TD>27</TD><TD>1</TD><TD>127</TD><TD>96</TD></tr>
+<tr><td>27/07/13-13:40</td><TD>7</TD><TD>26</TD><TD>1</TD><TD>130</TD><TD>96</TD></tr>
+<tr><td>27/07/13-13:50</td><TD>7</TD><TD>26</TD><TD>1</TD><TD>127</TD><TD>97</TD></tr>
+<tr><td>27/07/13-14:00</td><TD>6</TD><TD>26</TD><TD>1</TD><TD>132</TD><TD>97</TD></tr>
+<tr><td>27/07/13-14:10</td><TD>7</TD><TD>23</TD><TD>2</TD><TD>151</TD><TD>86</TD></tr>
+<tr><td>27/07/13-14:20</td><TD>7</TD><TD>23</TD><TD>3</TD><TD>141</TD><TD>83</TD></tr>
+<tr><td>27/07/13-14:30</td><TD>7</TD><TD>23</TD><TD>4</TD><TD>140</TD><TD>81</TD></tr>
+<tr><td>27/07/13-14:40</td><TD>8</TD><TD>23</TD><TD>4</TD><TD>160</TD><TD>79</TD></tr>
+<tr><td>27/07/13-14:50</td><TD>6</TD><TD>22</TD><TD>3</TD><TD>155</TD><TD>77</TD></tr>
+<tr><td>27/07/13-15:00</td><TD>7</TD><TD>23</TD><TD>3</TD><TD>139</TD><TD>76</TD></tr>
+<tr><td>27/07/13-15:10</td><TD>7</TD><TD>35</TD><TD>3</TD><TD>145</TD><TD>77</TD></tr>
+<tr><td>27/07/13-15:20</td><TD>7</TD><TD>35</TD><TD>3</TD><TD>153</TD><TD>77</TD></tr>
+<tr><td>27/07/13-15:30</td><TD>7</TD><TD>35</TD><TD>4</TD><TD>164</TD><TD>77</TD></tr>
+<tr><td>27/07/13-15:40</td><TD>7</TD><TD>35</TD><TD>5</TD><TD>176</TD><TD>79</TD></tr>
+<tr><td>27/07/13-15:50</td><TD>7</TD><TD>35</TD><TD>4</TD><TD>165</TD><TD>81</TD></tr>
+<tr><td>27/07/13-16:00</td><TD>6</TD><TD>35</TD><TD>4</TD><TD>173</TD><TD>83</TD></tr>
+<tr><td>27/07/13-16:10</td><TD>7</TD><TD>33</TD><TD>3</TD><TD>170</TD><TD>83</TD></tr>
+<tr><td>27/07/13-16:20</td><TD>7</TD><TD>32</TD><TD>3</TD><TD>165</TD><TD>84</TD></tr>
+<tr><td>27/07/13-16:30</td><TD>7</TD><TD>33</TD><TD>2</TD><TD>168</TD><TD>84</TD></tr>
+<tr><td>27/07/13-16:40</td><TD>7</TD><TD>33</TD><TD>2</TD><TD>170</TD><TD>87</TD></tr>
+<tr><td>27/07/13-16:50</td><TD>7</TD><TD>33</TD><TD>2</TD><TD>158</TD><TD>86</TD></tr>
+<tr><td>27/07/13-17:00</td><TD>8</TD><TD>32</TD><TD>3</TD><TD>169</TD><TD>85</TD></tr>
+<tr><td>27/07/13-17:10</td><TD>7</TD><TD>23</TD><TD>2</TD><TD>160</TD><TD>84</TD></tr>
+<tr><td>27/07/13-17:20</td><TD>7</TD><TD>23</TD><TD>2</TD><TD>147</TD><TD>82</TD></tr>
+<tr><td>27/07/13-17:30</td><TD>8</TD><TD>23</TD><TD>2</TD><TD>148</TD><TD>84</TD></tr>
+<tr><td>27/07/13-17:40</td><TD>7</TD><TD>23</TD><TD>3</TD><TD>154</TD><TD>84</TD></tr>
+<tr><td>27/07/13-17:50</td><TD>7</TD><TD>23</TD><TD>2</TD><TD>137</TD><TD>87</TD></tr>
+<tr><td>27/07/13-18:00</td><TD>8</TD><TD>23</TD><TD>2</TD><TD>135</TD><TD>87</TD></tr>
+<tr><td>27/07/13-18:10</td><TD>7</TD><TD>27</TD><TD>2</TD><TD>135</TD><TD>87</TD></tr>
+<tr><td>27/07/13-18:20</td><TD>7</TD><TD>27</TD><TD>2</TD><TD>130</TD><TD>86</TD></tr>
+<tr><td>27/07/13-18:30</td><TD>7</TD><TD>27</TD><TD>2</TD><TD>137</TD><TD>85</TD></tr>
+<tr><td>27/07/13-18:40</td><TD>7</TD><TD>27</TD><TD>2</TD><TD>130</TD><TD>85</TD></tr>
+<tr><td>27/07/13-18:50</td><TD>7</TD><TD>27</TD><TD>2</TD><TD>134</TD><TD>86</TD></tr>
+<tr><td>27/07/13-19:00</td><TD>7</TD><TD>27</TD><TD>2</TD><TD>127</TD><TD>87</TD></tr>
+<tr><td>27/07/13-19:10</td><TD>7</TD><TD>24</TD><TD>2</TD><TD>138</TD><TD>87</TD></tr>
+<tr><td>27/07/13-19:20</td><TD>7</TD><TD>24</TD><TD>2</TD><TD>133</TD><TD>88</TD></tr>
+<tr><td>27/07/13-19:30</td><TD>7</TD><TD>24</TD><TD>2</TD><TD>132</TD><TD>86</TD></tr>
+<tr><td>27/07/13-19:40</td><TD>7</TD><TD>24</TD><TD>2</TD><TD>131</TD><TD>87</TD></tr>
+<tr><td>27/07/13-19:50</td><TD>7</TD><TD>24</TD><TD>2</TD><TD>133</TD><TD>88</TD></tr>
+<tr><td>27/07/13-20:00</td><TD>7</TD><TD>24</TD><TD>2</TD><TD>129</TD><TD>88</TD></tr>
+<tr><td>27/07/13-20:10</td><TD>7</TD><TD>22</TD><TD>2</TD><TD>133</TD><TD>88</TD></tr>
+<tr><td>27/07/13-20:20</td><TD>7</TD><TD>21</TD><TD>2</TD><TD>136</TD><TD>86</TD></tr>
+<tr><td>27/07/13-20:30</td><TD>8</TD><TD>22</TD><TD>3</TD><TD>132</TD><TD>83</TD></tr>
+<tr><td>27/07/13-20:40</td><TD>7</TD><TD>22</TD><TD>3</TD><TD>132</TD><TD>85</TD></tr>
+<tr><td>27/07/13-20:50</td><TD>7</TD><TD>22</TD><TD>3</TD><TD>134</TD><TD>83</TD></tr>
+<tr><td>27/07/13-21:00</td><TD>7</TD><TD>21</TD><TD>5</TD><TD>142</TD><TD>81</TD></tr>
+<tr><td>27/07/13-21:10</td><TD>7</TD><TD>19</TD><TD>6</TD><TD>143</TD><TD>79</TD></tr>
+<tr><td>27/07/13-21:20</td><TD>7</TD><TD>19</TD><TD>6</TD><TD>131</TD><TD>79</TD></tr>
+<tr><td>27/07/13-21:30</td><TD>8</TD><TD>19</TD><TD>6</TD><TD>135</TD><TD>79</TD></tr>
+<tr><td>27/07/13-21:40</td><TD>7</TD><TD>19</TD><TD>6</TD><TD>138</TD><TD>78</TD></tr>
+<tr><td>27/07/13-21:50</td><TD>8</TD><TD>19</TD><TD>6</TD><TD>133</TD><TD>77</TD></tr>
+<tr><td>27/07/13-22:00</td><TD>7</TD><TD>19</TD><TD>7</TD><TD>135</TD><TD>76</TD></tr>
+<tr><td>27/07/13-22:10</td><TD>7</TD><TD>28</TD><TD>5</TD><TD>140</TD><TD>78</TD></tr>
+<tr><td>27/07/13-22:20</td><TD>6</TD><TD>27</TD><TD>7</TD><TD>151</TD><TD>75</TD></tr>
+<tr><td>27/07/13-22:30</td><TD>7</TD><TD>27</TD><TD>6</TD><TD>137</TD><TD>77</TD></tr>
+<tr><td>27/07/13-22:40</td><TD>8</TD><TD>27</TD><TD>3</TD><TD>137</TD><TD>81</TD></tr>
+<tr><td>27/07/13-22:50</td><TD>7</TD><TD>27</TD><TD>2</TD><TD>138</TD><TD>81</TD></tr>
+<tr><td>27/07/13-23:00</td><TD>7</TD><TD>27</TD><TD>2</TD><TD>130</TD><TD>78</TD></tr>
+<tr><td>27/07/13-23:10</td><TD>6</TD><TD>23</TD><TD>2</TD><TD>135</TD><TD>82</TD></tr>
+<tr><td>27/07/13-23:20</td><TD>7</TD><TD>23</TD><TD>1</TD><TD>140</TD><TD>85</TD></tr>
+<tr><td>27/07/13-23:30</td><TD>7</TD><TD>23</TD><TD>1</TD><TD>139</TD><TD>85</TD></tr>
+<tr><td>27/07/13-23:40</td><TD>7</TD><TD>23</TD><TD>1</TD><TD>140</TD><TD>86</TD></tr>
+<tr><td>27/07/13-23:50</td><TD>6</TD><TD>23</TD><TD>1</TD><TD>134</TD><TD>85</TD></tr>
+<tr><td>28/07/13-00:00</td><TD>7</TD><TD>23</TD><TD>2</TD><TD>140</TD><TD>83</TD></tr>
+<tr><td colspan=6>
+<br><b>Nota:</b>Los datos, aqui publicados, no han sido sometidos al proceso de validacion.
+<br>Las unidades estan expresadas en microgramos/metrocubico(ug/m3).
+ 
+</td></tr></TABLE><br><br>
+  

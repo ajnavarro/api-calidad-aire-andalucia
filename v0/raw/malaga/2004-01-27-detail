@@ -1,0 +1,366 @@
+<HTML><HEAD>
+<meta http-equiv="Content-Language" content="es">
+<title>Informe Diario de Calidad del Aire Ambiente 27/01/2004</title>
+<style type="text/css">
+<!--
+body {´font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+td {´font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+.CabTabla {´font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; backgroundcolor=#999999; color=#FFFFFF }
+-->
+</style>
+</HEAD>
+<body bgcolor=white link=green vlink="#054100" alink=lightgreen>
+<table border="1" width="100%" cellspacing="0" cellpadding="5">
+  <tr>
+    <th width="20%" rowspan="2" >
+      <img border="0" src="http://www.juntadeandalucia.es/medioambiente/imagenes/logo_junta.gif">
+      <h5>Consejería de Medio Ambiente</h5>
+    </tH>
+    <td rowspan="2" align="center">
+      <h2>RED DE VIGILANCIA Y CONTROL DE LA CALIDAD DEL AIRE DE ANDALUCIA</h2>
+      <h2>Informe Diario de Calidad del Aire Ambiente</h2>
+    </td>
+    <TH width="20%" > <h2>S.I.V.A. </h2></TH>
+  </tr>
+  <tr>
+    <tH width="20%" >TIPO DE DATOS: No Validados</tH>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<div align="left">
+	
+<br><b><u>Leyenda:</u></b>
+<br>Este informe se realiza a partir de los datos de la Red de Vigilancia y Control
+ de la Contaminacion Atmosferica de Andalucia.
+	
+<br>Se muestran los valores medios semi-horarios, cuarto-horarios o de diez minutos.
+	
+<br><b>SO2:</b> Dioxido de azufre<br><b>PART:</b> Particulas en suspension
+<br><b>NO2:</b> Dioxido de nitrogeno<br><b>CO:</b>   Monoxido de carbono
+<br><b>O3:</b>  Ozono<br><b>SH2:</b>  Acido sulfhidrico
+	
+<br><b>Nota:</b>Los datos, aqui publicados, no han sido sometidos al proceso de validacion.
+<br>Las unidades estan expresadas en microgramos/metrocubico(ug/m3).
+	
+<br>Estos datos no pueden ser comparados directamente con los límites de
+ referencia que establece la legislación en cada caso, ya que estos normalmente
+ están basados en tipos de medias distintos de los que aqui se representan.
+	
+<br><br>
+<table cellspacing=0 cellpadding="0" border="1" width=90% align=CENTER><tr><td bgcolor=GRAY width=20%><div align="center"><font color="#FFFFFF"><b>Provincia</b></font></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;MALAGA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Municipio</font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;MALAGA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Estacion </font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;PASEO DE MARTIRICOS</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Direccion</font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;PASEO DE MARTIRICOS S/N</b></td></tr></table>
+<br>
+<table align=CENTER cellspacing=0 cellpadding="0" border="1" width=90%><tr bgcolor=gray align=center><td class="CabTabla" width=30%><b>FECHA-HORA</b></td>
+<td class="CabTabla"><b>SO2</b></td>
+<td class="CabTabla"><b>PART</b></td>
+<td class="CabTabla"><b>NO2</b></td>
+<td class="CabTabla"><b>CO</b></td>
+<td class="CabTabla"><b>O3</b></td>
+</tr>
+<tr><td>27/01/04-00:10</td><TD>7</TD><TD>5</TD><TD>28</TD><TD>100</TD><TD>57</TD></tr>
+<tr><td>27/01/04-00:20</td><TD>7</TD><TD>7</TD><TD>26</TD><TD>100</TD><TD>58</TD></tr>
+<tr><td>27/01/04-00:30</td><TD>6</TD><TD>5</TD><TD>26</TD><TD>100</TD><TD>57</TD></tr>
+<tr><td>27/01/04-00:40</td><TD>6</TD><TD>5</TD><TD>26</TD><TD>100</TD><TD>51</TD></tr>
+<tr><td>27/01/04-00:50</td><TD>6</TD><TD>5</TD><TD>27</TD><TD>100</TD><TD>46</TD></tr>
+<tr><td>27/01/04-01:00</td><TD>7</TD><TD>5</TD><TD>28</TD><TD>100</TD><TD>35</TD></tr>
+<tr><td>27/01/04-01:10</td><TD>7</TD><TD>6</TD><TD>28</TD><TD>100</TD><TD>39</TD></tr>
+<tr><td>27/01/04-01:20</td><TD>6</TD><TD>6</TD><TD>25</TD><TD>100</TD><TD>49</TD></tr>
+<tr><td>27/01/04-01:30</td><TD>7</TD><TD>6</TD><TD>24</TD><TD>100</TD><TD>51</TD></tr>
+<tr><td>27/01/04-01:40</td><TD>7</TD><TD>5</TD><TD>22</TD><TD>100</TD><TD>55</TD></tr>
+<tr><td>27/01/04-01:50</td><TD>6</TD><TD>5</TD><TD>21</TD><TD>101</TD><TD>57</TD></tr>
+<tr><td>27/01/04-02:00</td><TD>7</TD><TD>9</TD><TD>20</TD><TD>100</TD><TD>59</TD></tr>
+<tr><td>27/01/04-02:10</td><TD>6</TD><TD>5</TD><TD>18</TD><TD>100</TD><TD>65</TD></tr>
+<tr><td>27/01/04-02:20</td><TD>6</TD><TD>5</TD><TD>17</TD><TD>100</TD><TD>62</TD></tr>
+<tr><td>27/01/04-02:30</td><TD>6</TD><TD>5</TD><TD>16</TD><TD>100</TD><TD>64</TD></tr>
+<tr><td>27/01/04-02:40</td><TD>6</TD><TD>5</TD><TD>15</TD><TD>100</TD><TD>64</TD></tr>
+<tr><td>27/01/04-02:50</td><TD>6</TD><TD>5</TD><TD>14</TD><TD>100</TD><TD>64</TD></tr>
+<tr><td>27/01/04-03:00</td><TD>6</TD><TD>5</TD><TD>13</TD><TD>100</TD><TD>64</TD></tr>
+<tr><td>27/01/04-03:10</td><TD>7</TD><TD>5</TD><TD>13</TD><TD>100</TD><TD>64</TD></tr>
+<tr><td>27/01/04-03:20</td><TD>6</TD><TD>5</TD><TD>12</TD><TD>100</TD><TD>65</TD></tr>
+<tr><td>27/01/04-03:30</td><TD>6</TD><TD>5</TD><TD>11</TD><TD>100</TD><TD>66</TD></tr>
+<tr><td>27/01/04-03:40</td><TD>7</TD><TD>5</TD><TD>11</TD><TD>100</TD><TD>66</TD></tr>
+<tr><td>27/01/04-03:50</td><TD>6</TD><TD>5</TD><TD>11</TD><TD>100</TD><TD>67</TD></tr>
+<tr><td>27/01/04-04:00</td><TD>6</TD><TD>6</TD><TD>11</TD><TD>100</TD><TD>68</TD></tr>
+<tr><td>27/01/04-04:10</td><TD>6</TD><TD>5</TD><TD>12</TD><TD>100</TD><TD>69</TD></tr>
+<tr><td>27/01/04-04:20</td><TD>6</TD><TD>9</TD><TD>12</TD><TD>100</TD><TD>70</TD></tr>
+<tr><td>27/01/04-04:30</td><TD>6</TD><TD>6</TD><TD>12</TD><TD>100</TD><TD>69</TD></tr>
+<tr><td>27/01/04-04:40</td><TD>6</TD><TD>5</TD><TD>12</TD><TD>100</TD><TD>69</TD></tr>
+<tr><td>27/01/04-04:50</td><TD>6</TD><TD>5</TD><TD>14</TD><TD>100</TD><TD>68</TD></tr>
+<tr><td>27/01/04-05:00</td><TD>6</TD><TD>5</TD><TD>15</TD><TD>100</TD><TD>69</TD></tr>
+<tr><td>27/01/04-05:10</td><TD>6</TD><TD>5</TD><TD>14</TD><TD>100</TD><TD>70</TD></tr>
+<tr><td>27/01/04-05:20</td><TD>6</TD><TD>5</TD><TD>14</TD><TD>100</TD><TD>70</TD></tr>
+<tr><td>27/01/04-05:30</td><TD>6</TD><TD>5</TD><TD>14</TD><TD>100</TD><TD>70</TD></tr>
+<tr><td>27/01/04-05:40</td><TD>6</TD><TD>5</TD><TD>14</TD><TD>100</TD><TD>70</TD></tr>
+<tr><td>27/01/04-05:50</td><TD>7</TD><TD>5</TD><TD>13</TD><TD>100</TD><TD>69</TD></tr>
+<tr><td>27/01/04-06:00</td><TD>6</TD><TD>5</TD><TD>14</TD><TD>100</TD><TD>69</TD></tr>
+<tr><td>27/01/04-06:10</td><TD>6</TD><TD>5</TD><TD>13</TD><TD>103</TD><TD>70</TD></tr>
+<tr><td>27/01/04-06:20</td><TD>6</TD><TD>5</TD><TD>14</TD><TD>100</TD><TD>67</TD></tr>
+<tr><td>27/01/04-06:30</td><TD>7</TD><TD>5</TD><TD>14</TD><TD>100</TD><TD>65</TD></tr>
+<tr><td>27/01/04-06:40</td><TD>6</TD><TD>5</TD><TD>16</TD><TD>100</TD><TD>57</TD></tr>
+<tr><td>27/01/04-06:50</td><TD>7</TD><TD>5</TD><TD>19</TD><TD>100</TD><TD>54</TD></tr>
+<tr><td>27/01/04-07:00</td><TD>7</TD><TD>5</TD><TD>20</TD><TD>100</TD><TD>53</TD></tr>
+<tr><td>27/01/04-07:10</td><TD>7</TD><TD>5</TD><TD>20</TD><TD>100</TD><TD>60</TD></tr>
+<tr><td>27/01/04-07:20</td><TD>7</TD><TD>5</TD><TD>23</TD><TD>100</TD><TD>47</TD></tr>
+<tr><td>27/01/04-07:30</td><TD>8</TD><TD>5</TD><TD>31</TD><TD>183</TD><TD>30</TD></tr>
+<tr><td>27/01/04-07:40</td><TD>8</TD><TD>8</TD><TD>33</TD><TD>174</TD><TD>33</TD></tr>
+<tr><td>27/01/04-07:50</td><TD>9</TD><TD>10</TD><TD>40</TD><TD>345</TD><TD>30</TD></tr>
+<tr><td>27/01/04-08:00</td><TD>9</TD><TD>7</TD><TD>44</TD><TD>364</TD><TD>29</TD></tr>
+<tr><td>27/01/04-08:10</td><TD>8</TD><TD>5</TD><TD>46</TD><TD>317</TD><TD>31</TD></tr>
+<tr><td>27/01/04-08:20</td><TD>8</TD><TD>5</TD><TD>49</TD><TD>389</TD><TD>27</TD></tr>
+<tr><td>27/01/04-08:30</td><TD>9</TD><TD>5</TD><TD>53</TD><TD>449</TD><TD>16</TD></tr>
+<tr><td>27/01/04-08:40</td><TD>10</TD><TD>8</TD><TD>58</TD><TD>671</TD><TD>13</TD></tr>
+<tr><td>27/01/04-08:50</td><TD>9</TD><TD>9</TD><TD>58</TD><TD>643</TD><TD>19</TD></tr>
+<tr><td>27/01/04-09:00</td><TD>11</TD><TD>8</TD><TD>60</TD><TD>914</TD><TD>19</TD></tr>
+<tr><td>27/01/04-09:10</td><TD>9</TD><TD>6</TD><TD>61</TD><TD>838</TD><TD>21</TD></tr>
+<tr><td>27/01/04-09:20</td><TD>9</TD><TD>6</TD><TD>61</TD><TD>793</TD><TD>20</TD></tr>
+<tr><td>27/01/04-09:30</td><TD>9</TD><TD>13</TD><TD>61</TD><TD>780</TD><TD>21</TD></tr>
+<tr><td>27/01/04-09:40</td><TD>8</TD><TD>20</TD><TD>57</TD><TD>708</TD><TD>29</TD></tr>
+<tr><td>27/01/04-09:50</td><TD>8</TD><TD>16</TD><TD>57</TD><TD>661</TD><TD>27</TD></tr>
+<tr><td>27/01/04-10:00</td><TD>9</TD><TD>12</TD><TD>56</TD><TD>608</TD><TD>29</TD></tr>
+<tr><td>27/01/04-10:10</td><TD>9</TD><TD>9</TD><TD>57</TD><TD>557</TD><TD>20</TD></tr>
+<tr><td>27/01/04-10:20</td><TD>11</TD><TD>8</TD><TD>59</TD><TD>563</TD><TD>20</TD></tr>
+<tr><td>27/01/04-10:30</td><TD>11</TD><TD>6</TD><TD>55</TD><TD>474</TD><TD>33</TD></tr>
+<tr><td>27/01/04-10:40</td><TD>11</TD><TD>5</TD><TD>56</TD><TD>457</TD><TD>26</TD></tr>
+<tr><td>27/01/04-10:50</td><TD>11</TD><TD>5</TD><TD>55</TD><TD>416</TD><TD>28</TD></tr>
+<tr><td>27/01/04-11:00</td><TD>9</TD><TD>6</TD><TD>52</TD><TD>397</TD><TD>37</TD></tr>
+<tr><td>27/01/04-11:10</td><TD>9</TD><TD>7</TD><TD>54</TD><TD>386</TD><TD>28</TD></tr>
+<tr><td>27/01/04-11:20</td><TD>9</TD><TD>8</TD><TD>54</TD><TD>443</TD><TD>28</TD></tr>
+<tr><td>27/01/04-11:30</td><TD>9</TD><TD>6</TD><TD>52</TD><TD>342</TD><TD>32</TD></tr>
+<tr><td>27/01/04-11:40</td><TD>9</TD><TD>5</TD><TD>52</TD><TD>319</TD><TD>32</TD></tr>
+<tr><td>27/01/04-11:50</td><TD>8</TD><TD>10</TD><TD>48</TD><TD>310</TD><TD>46</TD></tr>
+<tr><td>27/01/04-12:00</td><TD>8</TD><TD>13</TD><TD>46</TD><TD>251</TD><TD>47</TD></tr>
+<tr><td>27/01/04-12:10</td><TD>8</TD><TD>11</TD><TD>48</TD><TD>239</TD><TD>37</TD></tr>
+<tr><td>27/01/04-12:20</td><TD>8</TD><TD>11</TD><TD>48</TD><TD>224</TD><TD>37</TD></tr>
+<tr><td>27/01/04-12:30</td><TD>8</TD><TD>7</TD><TD>46</TD><TD>224</TD><TD>45</TD></tr>
+<tr><td>27/01/04-12:40</td><TD>8</TD><TD>8</TD><TD>44</TD><TD>147</TD><TD>51</TD></tr>
+<tr><td>27/01/04-12:50</td><TD>7</TD><TD>8</TD><TD>45</TD><TD>130</TD><TD>46</TD></tr>
+<tr><td>27/01/04-13:00</td><TD>7</TD><TD>7</TD><TD>44</TD><TD>111</TD><TD>45</TD></tr>
+<tr><td>27/01/04-13:10</td><TD>8</TD><TD>8</TD><TD>46</TD><TD>152</TD><TD>37</TD></tr>
+<tr><td>27/01/04-13:20</td><TD>8</TD><TD>8</TD><TD>45</TD><TD>129</TD><TD>40</TD></tr>
+<tr><td>27/01/04-13:30</td><TD>7</TD><TD>8</TD><TD>44</TD><TD>117</TD><TD>43</TD></tr>
+<tr><td>27/01/04-13:40</td><TD>8</TD><TD>6</TD><TD>42</TD><TD>104</TD><TD>47</TD></tr>
+<tr><td>27/01/04-13:50</td><TD>8</TD><TD>5</TD><TD>43</TD><TD>102</TD><TD>44</TD></tr>
+<tr><td>27/01/04-14:00</td><TD>8</TD><TD>5</TD><TD>43</TD><TD>100</TD><TD>49</TD></tr>
+<tr><td>27/01/04-14:10</td><TD>8</TD><TD>5</TD><TD>43</TD><TD>122</TD><TD>46</TD></tr>
+<tr><td>27/01/04-14:20</td><TD>8</TD><TD>5</TD><TD>45</TD><TD>174</TD><TD>43</TD></tr>
+<tr><td>27/01/04-14:30</td><TD>8</TD><TD>5</TD><TD>43</TD><TD>195</TD><TD>48</TD></tr>
+<tr><td>27/01/04-14:40</td><TD>8</TD><TD>11</TD><TD>44</TD><TD>217</TD><TD>47</TD></tr>
+<tr><td>27/01/04-14:50</td><TD>7</TD><TD>10</TD><TD>42</TD><TD>158</TD><TD>52</TD></tr>
+<tr><td>27/01/04-15:00</td><TD>8</TD><TD>10</TD><TD>43</TD><TD>199</TD><TD>45</TD></tr>
+<tr><td>27/01/04-15:10</td><TD>8</TD><TD>7</TD><TD>42</TD><TD>199</TD><TD>49</TD></tr>
+<tr><td>27/01/04-15:20</td><TD>8</TD><TD>6</TD><TD>44</TD><TD>145</TD><TD>49</TD></tr>
+<tr><td>27/01/04-15:30</td><TD>8</TD><TD>7</TD><TD>42</TD><TD>106</TD><TD>52</TD></tr>
+<tr><td>27/01/04-15:40</td><TD>8</TD><TD>7</TD><TD>44</TD><TD>117</TD><TD>44</TD></tr>
+<tr><td>27/01/04-15:50</td><TD>8</TD><TD>6</TD><TD>45</TD><TD>152</TD><TD>42</TD></tr>
+<tr><td>27/01/04-16:00</td><TD>7</TD><TD>5</TD><TD>44</TD><TD>116</TD><TD>46</TD></tr>
+<tr><td>27/01/04-16:10</td><TD>8</TD><TD>11</TD><TD>43</TD><TD>127</TD><TD>48</TD></tr>
+<tr><td>27/01/04-16:20</td><TD>7</TD><TD>12</TD><TD>43</TD><TD>106</TD><TD>50</TD></tr>
+<tr><td>27/01/04-16:30</td><TD>8</TD><TD>11</TD><TD>42</TD><TD>105</TD><TD>49</TD></tr>
+<tr><td>27/01/04-16:40</td><TD>8</TD><TD>7</TD><TD>46</TD><TD>168</TD><TD>37</TD></tr>
+<tr><td>27/01/04-16:50</td><TD>8</TD><TD>5</TD><TD>45</TD><TD>149</TD><TD>43</TD></tr>
+<tr><td>27/01/04-17:00</td><TD>9</TD><TD>7</TD><TD>48</TD><TD>128</TD><TD>38</TD></tr>
+<tr><td>27/01/04-17:10</td><TD>8</TD><TD>8</TD><TD>45</TD><TD>126</TD><TD>41</TD></tr>
+<tr><td>27/01/04-17:20</td><TD>7</TD><TD>9</TD><TD>45</TD><TD>123</TD><TD>40</TD></tr>
+<tr><td>27/01/04-17:30</td><TD>8</TD><TD>8</TD><TD>45</TD><TD>131</TD><TD>40</TD></tr>
+<tr><td>27/01/04-17:40</td><TD>9</TD><TD>6</TD><TD>46</TD><TD>130</TD><TD>39</TD></tr>
+<tr><td>27/01/04-17:50</td><TD>8</TD><TD>6</TD><TD>47</TD><TD>116</TD><TD>37</TD></tr>
+<tr><td>27/01/04-18:00</td><TD>8</TD><TD>8</TD><TD>47</TD><TD>108</TD><TD>41</TD></tr>
+<tr><td>27/01/04-18:10</td><TD>8</TD><TD>8</TD><TD>46</TD><TD>103</TD><TD>44</TD></tr>
+<tr><td>27/01/04-18:20</td><TD>8</TD><TD>6</TD><TD>47</TD><TD>110</TD><TD>37</TD></tr>
+<tr><td>27/01/04-18:30</td><TD>8</TD><TD>7</TD><TD>48</TD><TD>108</TD><TD>33</TD></tr>
+<tr><td>27/01/04-18:40</td><TD>8</TD><TD>7</TD><TD>50</TD><TD>198</TD><TD>24</TD></tr>
+<tr><td>27/01/04-18:50</td><TD>8</TD><TD>6</TD><TD>49</TD><TD>169</TD><TD>29</TD></tr>
+<tr><td>27/01/04-19:00</td><TD>8</TD><TD>7</TD><TD>49</TD><TD>175</TD><TD>28</TD></tr>
+<tr><td>27/01/04-19:10</td><TD>9</TD><TD>5</TD><TD>50</TD><TD>250</TD><TD>18</TD></tr>
+<tr><td>27/01/04-19:20</td><TD>9</TD><TD>5</TD><TD>53</TD><TD>321</TD><TD>14</TD></tr>
+<tr><td>27/01/04-19:30</td><TD>10</TD><TD>8</TD><TD>53</TD><TD>429</TD><TD>16</TD></tr>
+<tr><td>27/01/04-19:40</td><TD>9</TD><TD>12</TD><TD>55</TD><TD>448</TD><TD>15</TD></tr>
+<tr><td>27/01/04-19:50</td><TD>10</TD><TD>8</TD><TD>56</TD><TD>572</TD><TD>11</TD></tr>
+<tr><td>27/01/04-20:00</td><TD>9</TD><TD>5</TD><TD>55</TD><TD>432</TD><TD>9</TD></tr>
+<tr><td>27/01/04-20:10</td><TD>9</TD><TD>8</TD><TD>57</TD><TD>553</TD><TD>8</TD></tr>
+<tr><td>27/01/04-20:20</td><TD>9</TD><TD>11</TD><TD>55</TD><TD>508</TD><TD>13</TD></tr>
+<tr><td>27/01/04-20:30</td><TD>9</TD><TD>12</TD><TD>51</TD><TD>486</TD><TD>36</TD></tr>
+<tr><td>27/01/04-20:40</td><TD>8</TD><TD>10</TD><TD>48</TD><TD>406</TD><TD>34</TD></tr>
+<tr><td>27/01/04-20:50</td><TD>8</TD><TD>8</TD><TD>51</TD><TD>385</TD><TD>31</TD></tr>
+<tr><td>27/01/04-21:00</td><TD>8</TD><TD>5</TD><TD>49</TD><TD>370</TD><TD>33</TD></tr>
+<tr><td>27/01/04-21:10</td><TD>8</TD><TD>12</TD><TD>50</TD><TD>298</TD><TD>30</TD></tr>
+<tr><td>27/01/04-21:20</td><TD>8</TD><TD>11</TD><TD>51</TD><TD>310</TD><TD>26</TD></tr>
+<tr><td>27/01/04-21:30</td><TD>8</TD><TD>9</TD><TD>51</TD><TD>334</TD><TD>29</TD></tr>
+<tr><td>27/01/04-21:40</td><TD>8</TD><TD>6</TD><TD>52</TD><TD>424</TD><TD>18</TD></tr>
+<tr><td>27/01/04-21:50</td><TD>8</TD><TD>5</TD><TD>49</TD><TD>423</TD><TD>33</TD></tr>
+<tr><td>27/01/04-22:00</td><TD>8</TD><TD>5</TD><TD>50</TD><TD>321</TD><TD>27</TD></tr>
+<tr><td>27/01/04-22:10</td><TD>8</TD><TD>7</TD><TD>52</TD><TD>357</TD><TD>13</TD></tr>
+<tr><td>27/01/04-22:20</td><TD>10</TD><TD>16</TD><TD>54</TD><TD>450</TD><TD>7</TD></tr>
+<tr><td>27/01/04-22:30</td><TD>10</TD><TD>15</TD><TD>53</TD><TD>414</TD><TD>8</TD></tr>
+<tr><td>27/01/04-22:40</td><TD>12</TD><TD>13</TD><TD>54</TD><TD>449</TD><TD>7</TD></tr>
+<tr><td>27/01/04-22:50</td><TD>12</TD><TD>14</TD><TD>54</TD><TD>436</TD><TD>6</TD></tr>
+<tr><td>27/01/04-23:00</td><TD>12</TD><TD>10</TD><TD>54</TD><TD>460</TD><TD>9</TD></tr>
+<tr><td>27/01/04-23:10</td><TD>12</TD><TD>12</TD><TD>55</TD><TD>627</TD><TD>6</TD></tr>
+<tr><td>27/01/04-23:20</td><TD>13</TD><TD>17</TD><TD>55</TD><TD>753</TD><TD>5</TD></tr>
+<tr><td>27/01/04-23:30</td><TD>13</TD><TD>12</TD><TD>55</TD><TD>751</TD><TD>6</TD></tr>
+<tr><td>27/01/04-23:40</td><TD>11</TD><TD>9</TD><TD>54</TD><TD>675</TD><TD>8</TD></tr>
+<tr><td>27/01/04-23:50</td><TD>9</TD><TD>10</TD><TD>52</TD><TD>528</TD><TD>16</TD></tr>
+<tr><td>28/01/04-00:00</td><TD>9</TD><TD>11</TD><TD>50</TD><TD>483</TD><TD>26</TD></tr>
+<tr><td colspan=6>
+<br><b>Nota:</b>Los datos, aqui publicados, no han sido sometidos al proceso de validacion.
+<br>Las unidades estan expresadas en microgramos/metrocubico(ug/m3).
+ 
+</td></tr></TABLE><br><br>
+<table cellspacing=0 cellpadding="0" border="1" width=90% align=CENTER><tr><td bgcolor=GRAY width=20%><div align="center"><font color="#FFFFFF"><b>Provincia</b></font></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;MALAGA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Municipio</font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;MARBELLA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Estacion </font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;MARBELLA</b></td></tr><tr><td bgcolor=GRAY width=20%><div align="center"><b><font color="#FFFFFF">Direccion</font></b></div></td><td width=80% bgcolor="#CCCCCC"><b>&nbsp;POLIDEPORTIVO GUADAIZA</b></td></tr></table>
+<br>
+<table align=CENTER cellspacing=0 cellpadding="0" border="1" width=90%><tr bgcolor=gray align=center><td class="CabTabla" width=30%><b>FECHA-HORA</b></td>
+<td class="CabTabla"><b>SO2</b></td>
+<td class="CabTabla"><b>PART</b></td>
+<td class="CabTabla"><b>NO2</b></td>
+<td class="CabTabla"><b>CO</b></td>
+<td class="CabTabla"><b>O3</b></td>
+</tr>
+<tr><td>27/01/04-00:10</td><TD>4</TD><TD>12</TD><TD>5</TD><TD>322</TD><TD>68</TD></tr>
+<tr><td>27/01/04-00:20</td><TD>3</TD><TD>9</TD><TD>7</TD><TD>345</TD><TD>63</TD></tr>
+<tr><td>27/01/04-00:30</td><TD>3</TD><TD>5</TD><TD>9</TD><TD>345</TD><TD>63</TD></tr>
+<tr><td>27/01/04-00:40</td><TD>3</TD><TD>5</TD><TD>6</TD><TD>330</TD><TD>66</TD></tr>
+<tr><td>27/01/04-00:50</td><TD>3</TD><TD>5</TD><TD>6</TD><TD>315</TD><TD>68</TD></tr>
+<tr><td>27/01/04-01:00</td><TD>3</TD><TD>5</TD><TD>6</TD><TD>316</TD><TD>67</TD></tr>
+<tr><td>27/01/04-01:10</td><TD>3</TD><TD>5</TD><TD>6</TD><TD>318</TD><TD>67</TD></tr>
+<tr><td>27/01/04-01:20</td><TD>4</TD><TD>5</TD><TD>5</TD><TD>310</TD><TD>68</TD></tr>
+<tr><td>27/01/04-01:30</td><TD>3</TD><TD>5</TD><TD>5</TD><TD>305</TD><TD>70</TD></tr>
+<tr><td>27/01/04-01:40</td><TD>3</TD><TD>5</TD><TD>4</TD><TD>306</TD><TD>70</TD></tr>
+<tr><td>27/01/04-01:50</td><TD>3</TD><TD>5</TD><TD>5</TD><TD>305</TD><TD>68</TD></tr>
+<tr><td>27/01/04-02:00</td><TD>4</TD><TD>8</TD><TD>5</TD><TD>310</TD><TD>69</TD></tr>
+<tr><td>27/01/04-02:10</td><TD>3</TD><TD>14</TD><TD>5</TD><TD>307</TD><TD>70</TD></tr>
+<tr><td>27/01/04-02:20</td><TD>3</TD><TD>15</TD><TD>5</TD><TD>314</TD><TD>69</TD></tr>
+<tr><td>27/01/04-02:30</td><TD>3</TD><TD>5</TD><TD>5</TD><TD>316</TD><TD>69</TD></tr>
+<tr><td>27/01/04-02:40</td><TD>3</TD><TD>5</TD><TD>5</TD><TD>314</TD><TD>69</TD></tr>
+<tr><td>27/01/04-02:50</td><TD>4</TD><TD>5</TD><TD>6</TD><TD>315</TD><TD>68</TD></tr>
+<tr><td>27/01/04-03:00</td><TD>4</TD><TD>5</TD><TD>5</TD><TD>311</TD><TD>68</TD></tr>
+<tr><td>27/01/04-03:10</td><TD>3</TD><TD>7</TD><TD>6</TD><TD>303</TD><TD>68</TD></tr>
+<tr><td>27/01/04-03:20</td><TD>3</TD><TD>7</TD><TD>5</TD><TD>306</TD><TD>71</TD></tr>
+<tr><td>27/01/04-03:30</td><TD>4</TD><TD>9</TD><TD>5</TD><TD>309</TD><TD>69</TD></tr>
+<tr><td>27/01/04-03:40</td><TD>3</TD><TD>17</TD><TD>5</TD><TD>303</TD><TD>69</TD></tr>
+<tr><td>27/01/04-03:50</td><TD>3</TD><TD>20</TD><TD>4</TD><TD>303</TD><TD>70</TD></tr>
+<tr><td>27/01/04-04:00</td><TD>3</TD><TD>14</TD><TD>4</TD><TD>304</TD><TD>70</TD></tr>
+<tr><td>27/01/04-04:10</td><TD>3</TD><TD>13</TD><TD>4</TD><TD>307</TD><TD>69</TD></tr>
+<tr><td>27/01/04-04:20</td><TD>4</TD><TD>5</TD><TD>5</TD><TD>301</TD><TD>71</TD></tr>
+<tr><td>27/01/04-04:30</td><TD>3</TD><TD>5</TD><TD>5</TD><TD>308</TD><TD>71</TD></tr>
+<tr><td>27/01/04-04:40</td><TD>3</TD><TD>5</TD><TD>4</TD><TD>306</TD><TD>71</TD></tr>
+<tr><td>27/01/04-04:50</td><TD>3</TD><TD>13</TD><TD>4</TD><TD>309</TD><TD>71</TD></tr>
+<tr><td>27/01/04-05:00</td><TD>3</TD><TD>13</TD><TD>4</TD><TD>299</TD><TD>72</TD></tr>
+<tr><td>27/01/04-05:10</td><TD>3</TD><TD>15</TD><TD>4</TD><TD>304</TD><TD>72</TD></tr>
+<tr><td>27/01/04-05:20</td><TD>3</TD><TD>19</TD><TD>4</TD><TD>300</TD><TD>72</TD></tr>
+<tr><td>27/01/04-05:30</td><TD>3</TD><TD>13</TD><TD>4</TD><TD>310</TD><TD>72</TD></tr>
+<tr><td>27/01/04-05:40</td><TD>4</TD><TD>5</TD><TD>4</TD><TD>307</TD><TD>72</TD></tr>
+<tr><td>27/01/04-05:50</td><TD>4</TD><TD>10</TD><TD>4</TD><TD>312</TD><TD>71</TD></tr>
+<tr><td>27/01/04-06:00</td><TD>3</TD><TD>13</TD><TD>5</TD><TD>312</TD><TD>69</TD></tr>
+<tr><td>27/01/04-06:10</td><TD>3</TD><TD>6</TD><TD>5</TD><TD>322</TD><TD>67</TD></tr>
+<tr><td>27/01/04-06:20</td><TD>3</TD><TD>10</TD><TD>5</TD><TD>317</TD><TD>65</TD></tr>
+<tr><td>27/01/04-06:30</td><TD>4</TD><TD>8</TD><TD>6</TD><TD>330</TD><TD>64</TD></tr>
+<tr><td>27/01/04-06:40</td><TD>4</TD><TD>5</TD><TD>7</TD><TD>311</TD><TD>65</TD></tr>
+<tr><td>27/01/04-06:50</td><TD>3</TD><TD>5</TD><TD>6</TD><TD>315</TD><TD>66</TD></tr>
+<tr><td>27/01/04-07:00</td><TD>3</TD><TD>5</TD><TD>5</TD><TD>320</TD><TD>66</TD></tr>
+<tr><td>27/01/04-07:10</td><TD>3</TD><TD>5</TD><TD>5</TD><TD>315</TD><TD>68</TD></tr>
+<tr><td>27/01/04-07:20</td><TD>4</TD><TD>6</TD><TD>7</TD><TD>320</TD><TD>65</TD></tr>
+<tr><td>27/01/04-07:30</td><TD>3</TD><TD>12</TD><TD>7</TD><TD>314</TD><TD>65</TD></tr>
+<tr><td>27/01/04-07:40</td><TD>3</TD><TD>13</TD><TD>10</TD><TD>318</TD><TD>59</TD></tr>
+<tr><td>27/01/04-07:50</td><TD>3</TD><TD>17</TD><TD>15</TD><TD>332</TD><TD>57</TD></tr>
+<tr><td>27/01/04-08:00</td><TD>3</TD><TD>16</TD><TD>15</TD><TD>327</TD><TD>55</TD></tr>
+<tr><td>27/01/04-08:10</td><TD>4</TD><TD>19</TD><TD>16</TD><TD>337</TD><TD>55</TD></tr>
+<tr><td>27/01/04-08:20</td><TD>4</TD><TD>23</TD><TD>19</TD><TD>369</TD><TD>47</TD></tr>
+<tr><td>27/01/04-08:30</td><TD>4</TD><TD>28</TD><TD>25</TD><TD>383</TD><TD>41</TD></tr>
+<tr><td>27/01/04-08:40</td><TD>3</TD><TD>28</TD><TD>28</TD><TD>407</TD><TD>34</TD></tr>
+<tr><td>27/01/04-08:50</td><TD>3</TD><TD>29</TD><TD>26</TD><TD>364</TD><TD>47</TD></tr>
+<tr><td>27/01/04-09:00</td><TD>4</TD><TD>21</TD><TD>18</TD><TD>338</TD><TD>52</TD></tr>
+<tr><td>27/01/04-09:10</td><TD>4</TD><TD>9</TD><TD>19</TD><TD>359</TD><TD>46</TD></tr>
+<tr><td>27/01/04-09:20</td><TD>4</TD><TD>5</TD><TD>30</TD><TD>502</TD><TD>31</TD></tr>
+<tr><td>27/01/04-09:30</td><TD>4</TD><TD>7</TD><TD>35</TD><TD>417</TD><TD>40</TD></tr>
+<tr><td>27/01/04-09:40</td><TD>4</TD><TD>20</TD><TD>28</TD><TD>453</TD><TD>32</TD></tr>
+<tr><td>27/01/04-09:50</td><TD>3</TD><TD>22</TD><TD>22</TD><TD>360</TD><TD>51</TD></tr>
+<tr><td>27/01/04-10:00</td><TD>4</TD><TD>27</TD><TD>18</TD><TD>349</TD><TD>49</TD></tr>
+<tr><td>27/01/04-10:10</td><TD>4</TD><TD>20</TD><TD>20</TD><TD>342</TD><TD>47</TD></tr>
+<tr><td>27/01/04-10:20</td><TD>4</TD><TD>5</TD><TD>17</TD><TD>351</TD><TD>50</TD></tr>
+<tr><td>27/01/04-10:30</td><TD>4</TD><TD>9</TD><TD>15</TD><TD>356</TD><TD>51</TD></tr>
+<tr><td>27/01/04-10:40</td><TD>3</TD><TD>23</TD><TD>18</TD><TD>379</TD><TD>46</TD></tr>
+<tr><td>27/01/04-10:50</td><TD>4</TD><TD>22</TD><TD>19</TD><TD>380</TD><TD>47</TD></tr>
+<tr><td>27/01/04-11:00</td><TD>4</TD><TD>27</TD><TD>20</TD><TD>388</TD><TD>48</TD></tr>
+<tr><td>27/01/04-11:10</td><TD>4</TD><TD>23</TD><TD>16</TD><TD>378</TD><TD>53</TD></tr>
+<tr><td>27/01/04-11:20</td><TD>4</TD><TD>12</TD><TD>15</TD><TD>366</TD><TD>54</TD></tr>
+<tr><td>27/01/04-11:30</td><TD>4</TD><TD>5</TD><TD>17</TD><TD>414</TD><TD>44</TD></tr>
+<tr><td>27/01/04-11:40</td><TD>4</TD><TD>8</TD><TD>21</TD><TD>412</TD><TD>44</TD></tr>
+<tr><td>27/01/04-11:50</td><TD>3</TD><TD>21</TD><TD>16</TD><TD>358</TD><TD>51</TD></tr>
+<tr><td>27/01/04-12:00</td><TD>4</TD><TD>31</TD><TD>14</TD><TD>370</TD><TD>50</TD></tr>
+<tr><td>27/01/04-12:10</td><TD>3</TD><TD>33</TD><TD>15</TD><TD>365</TD><TD>49</TD></tr>
+<tr><td>27/01/04-12:20</td><TD>3</TD><TD>27</TD><TD>17</TD><TD>379</TD><TD>49</TD></tr>
+<tr><td>27/01/04-12:30</td><TD>4</TD><TD>19</TD><TD>15</TD><TD>353</TD><TD>54</TD></tr>
+<tr><td>27/01/04-12:40</td><TD>3</TD><TD>7</TD><TD>12</TD><TD>352</TD><TD>56</TD></tr>
+<tr><td>27/01/04-12:50</td><TD>4</TD><TD>12</TD><TD>11</TD><TD>343</TD><TD>58</TD></tr>
+<tr><td>27/01/04-13:00</td><TD>4</TD><TD>13</TD><TD>10</TD><TD>347</TD><TD>60</TD></tr>
+<tr><td>27/01/04-13:10</td><TD>4</TD><TD>15</TD><TD>9</TD><TD>343</TD><TD>59</TD></tr>
+<tr><td>27/01/04-13:20</td><TD>4</TD><TD>21</TD><TD>11</TD><TD>352</TD><TD>58</TD></tr>
+<tr><td>27/01/04-13:30</td><TD>3</TD><TD>27</TD><TD>11</TD><TD>351</TD><TD>59</TD></tr>
+<tr><td>27/01/04-13:40</td><TD>4</TD><TD>23</TD><TD>11</TD><TD>354</TD><TD>57</TD></tr>
+<tr><td>27/01/04-13:50</td><TD>3</TD><TD>25</TD><TD>10</TD><TD>360</TD><TD>58</TD></tr>
+<tr><td>27/01/04-14:00</td><TD>3</TD><TD>25</TD><TD>9</TD><TD>351</TD><TD>59</TD></tr>
+<tr><td>27/01/04-14:10</td><TD>4</TD><TD>24</TD><TD>8</TD><TD>350</TD><TD>60</TD></tr>
+<tr><td>27/01/04-14:20</td><TD>3</TD><TD>26</TD><TD>8</TD><TD>359</TD><TD>61</TD></tr>
+<tr><td>27/01/04-14:30</td><TD>3</TD><TD>16</TD><TD>7</TD><TD>362</TD><TD>63</TD></tr>
+<tr><td>27/01/04-14:40</td><TD>4</TD><TD>6</TD><TD>7</TD><TD>352</TD><TD>62</TD></tr>
+<tr><td>27/01/04-14:50</td><TD>4</TD><TD>5</TD><TD>6</TD><TD>348</TD><TD>65</TD></tr>
+<tr><td>27/01/04-15:00</td><TD>3</TD><TD>6</TD><TD>6</TD><TD>349</TD><TD>64</TD></tr>
+<tr><td>27/01/04-15:10</td><TD>4</TD><TD>23</TD><TD>6</TD><TD>340</TD><TD>65</TD></tr>
+<tr><td>27/01/04-15:20</td><TD>4</TD><TD>39</TD><TD>7</TD><TD>351</TD><TD>63</TD></tr>
+<tr><td>27/01/04-15:30</td><TD>4</TD><TD>45</TD><TD>8</TD><TD>338</TD><TD>63</TD></tr>
+<tr><td>27/01/04-15:40</td><TD>3</TD><TD>38</TD><TD>10</TD><TD>346</TD><TD>62</TD></tr>
+<tr><td>27/01/04-15:50</td><TD>4</TD><TD>37</TD><TD>9</TD><TD>349</TD><TD>60</TD></tr>
+<tr><td>27/01/04-16:00</td><TD>4</TD><TD>33</TD><TD>10</TD><TD>343</TD><TD>64</TD></tr>
+<tr><td>27/01/04-16:10</td><TD>4</TD><TD>28</TD><TD>9</TD><TD>354</TD><TD>61</TD></tr>
+<tr><td>27/01/04-16:20</td><TD>3</TD><TD>21</TD><TD>15</TD><TD>362</TD><TD>53</TD></tr>
+<tr><td>27/01/04-16:30</td><TD>4</TD><TD>14</TD><TD>15</TD><TD>381</TD><TD>55</TD></tr>
+<tr><td>27/01/04-16:40</td><TD>4</TD><TD>10</TD><TD>17</TD><TD>402</TD><TD>52</TD></tr>
+<tr><td>27/01/04-16:50</td><TD>4</TD><TD>22</TD><TD>19</TD><TD>398</TD><TD>48</TD></tr>
+<tr><td>27/01/04-17:00</td><TD>3</TD><TD>28</TD><TD>18</TD><TD>374</TD><TD>53</TD></tr>
+<tr><td>27/01/04-17:10</td><TD>3</TD><TD>31</TD><TD>17</TD><TD>373</TD><TD>53</TD></tr>
+<tr><td>27/01/04-17:20</td><TD>3</TD><TD>34</TD><TD>18</TD><TD>383</TD><TD>51</TD></tr>
+<tr><td>27/01/04-17:30</td><TD>4</TD><TD>31</TD><TD>19</TD><TD>384</TD><TD>50</TD></tr>
+<tr><td>27/01/04-17:40</td><TD>4</TD><TD>25</TD><TD>19</TD><TD>385</TD><TD>51</TD></tr>
+<tr><td>27/01/04-17:50</td><TD>4</TD><TD>18</TD><TD>19</TD><TD>379</TD><TD>51</TD></tr>
+<tr><td>27/01/04-18:00</td><TD>4</TD><TD>16</TD><TD>17</TD><TD>373</TD><TD>55</TD></tr>
+<tr><td>27/01/04-18:10</td><TD>3</TD><TD>19</TD><TD>12</TD><TD>367</TD><TD>57</TD></tr>
+<tr><td>27/01/04-18:20</td><TD>3</TD><TD>24</TD><TD>12</TD><TD>349</TD><TD>60</TD></tr>
+<tr><td>27/01/04-18:30</td><TD>4</TD><TD>35</TD><TD>12</TD><TD>355</TD><TD>58</TD></tr>
+<tr><td>27/01/04-18:40</td><TD>3</TD><TD>38</TD><TD>20</TD><TD>447</TD><TD>40</TD></tr>
+<tr><td>27/01/04-18:50</td><TD>4</TD><TD>36</TD><TD>33</TD><TD>445</TD><TD>36</TD></tr>
+<tr><td>27/01/04-19:00</td><TD>3</TD><TD>31</TD><TD>26</TD><TD>388</TD><TD>51</TD></tr>
+<tr><td>27/01/04-19:10</td><TD>3</TD><TD>37</TD><TD>13</TD><TD>353</TD><TD>59</TD></tr>
+<tr><td>27/01/04-19:20</td><TD>4</TD><TD>43</TD><TD>12</TD><TD>355</TD><TD>58</TD></tr>
+<tr><td>27/01/04-19:30</td><TD>3</TD><TD>40</TD><TD>12</TD><TD>364</TD><TD>58</TD></tr>
+<tr><td>27/01/04-19:40</td><TD>3</TD><TD>37</TD><TD>11</TD><TD>404</TD><TD>54</TD></tr>
+<tr><td>27/01/04-19:50</td><TD>4</TD><TD>40</TD><TD>16</TD><TD>431</TD><TD>50</TD></tr>
+<tr><td>27/01/04-20:00</td><TD>4</TD><TD>36</TD><TD>19</TD><TD>462</TD><TD>45</TD></tr>
+<tr><td>27/01/04-20:10</td><TD>3</TD><TD>32</TD><TD>23</TD><TD>486</TD><TD>41</TD></tr>
+<tr><td>27/01/04-20:20</td><TD>4</TD><TD>38</TD><TD>27</TD><TD>507</TD><TD>34</TD></tr>
+<tr><td>27/01/04-20:30</td><TD>4</TD><TD>22</TD><TD>32</TD><TD>570</TD><TD>34</TD></tr>
+<tr><td>27/01/04-20:40</td><TD>4</TD><TD>9</TD><TD>30</TD><TD>520</TD><TD>37</TD></tr>
+<tr><td>27/01/04-20:50</td><TD>4</TD><TD>15</TD><TD>25</TD><TD>464</TD><TD>40</TD></tr>
+<tr><td>27/01/04-21:00</td><TD>4</TD><TD>23</TD><TD>24</TD><TD>460</TD><TD>39</TD></tr>
+<tr><td>27/01/04-21:10</td><TD>3</TD><TD>24</TD><TD>23</TD><TD>499</TD><TD>42</TD></tr>
+<tr><td>27/01/04-21:20</td><TD>4</TD><TD>37</TD><TD>24</TD><TD>455</TD><TD>44</TD></tr>
+<tr><td>27/01/04-21:30</td><TD>3</TD><TD>34</TD><TD>14</TD><TD>398</TD><TD>51</TD></tr>
+<tr><td>27/01/04-21:40</td><TD>3</TD><TD>31</TD><TD>13</TD><TD>390</TD><TD>53</TD></tr>
+<tr><td>27/01/04-21:50</td><TD>4</TD><TD>37</TD><TD>11</TD><TD>384</TD><TD>55</TD></tr>
+<tr><td>27/01/04-22:00</td><TD>3</TD><TD>34</TD><TD>12</TD><TD>398</TD><TD>53</TD></tr>
+<tr><td>27/01/04-22:10</td><TD>4</TD><TD>27</TD><TD>12</TD><TD>398</TD><TD>54</TD></tr>
+<tr><td>27/01/04-22:20</td><TD>3</TD><TD>28</TD><TD>12</TD><TD>401</TD><TD>55</TD></tr>
+<tr><td>27/01/04-22:30</td><TD>3</TD><TD>18</TD><TD>9</TD><TD>384</TD><TD>55</TD></tr>
+<tr><td>27/01/04-22:40</td><TD>3</TD><TD>13</TD><TD>10</TD><TD>417</TD><TD>53</TD></tr>
+<tr><td>27/01/04-22:50</td><TD>3</TD><TD>8</TD><TD>13</TD><TD>408</TD><TD>51</TD></tr>
+<tr><td>27/01/04-23:00</td><TD>3</TD><TD>8</TD><TD>12</TD><TD>408</TD><TD>53</TD></tr>
+<tr><td>27/01/04-23:10</td><TD>3</TD><TD>8</TD><TD>13</TD><TD>429</TD><TD>51</TD></tr>
+<tr><td>27/01/04-23:20</td><TD>3</TD><TD>12</TD><TD>13</TD><TD>398</TD><TD>52</TD></tr>
+<tr><td>27/01/04-23:30</td><TD>3</TD><TD>11</TD><TD>13</TD><TD>390</TD><TD>50</TD></tr>
+<tr><td>27/01/04-23:40</td><TD>4</TD><TD>13</TD><TD>17</TD><TD>446</TD><TD>46</TD></tr>
+<tr><td>27/01/04-23:50</td><TD>4</TD><TD>10</TD><TD>14</TD><TD>414</TD><TD>50</TD></tr>
+<tr><td>28/01/04-00:00</td><TD>3</TD><TD>11</TD><TD>12</TD><TD>403</TD><TD>52</TD></tr>
+<tr><td colspan=6>
+<br><b>Nota:</b>Los datos, aqui publicados, no han sido sometidos al proceso de validacion.
+<br>Las unidades estan expresadas en microgramos/metrocubico(ug/m3).
+ 
+</td></tr></TABLE><br><br>
+  

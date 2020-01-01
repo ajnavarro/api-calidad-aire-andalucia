@@ -1,0 +1,82 @@
+<PRE>
+
++-------------------------------------------------------------------------------------------------------------------+
+!         JUNTA DE ANDALUCIA                SISTEMA DE INFORMACION DE VIGILANCIA AMBIENTAL       Fecha     11/01/02 !
+!        CONSEJERIA DE MEDIO AMBIENTE        Informe Diario de Contaminación Atmosférica                            !
+!                                                                                                Página :         1 !
+!                                                                                                TIPOS DE DATOS :   !
+!                                                                                                       X  V        !
+! PERIODO :   10/01/2002-00:00        a    10/01/2002-23:00                                                         !
++-------------------------------------------------------------------------------------------------------------------+
+
+  Tabla de calidad
+
+  Provincia : CADIZ
+  Remota                   SO2       CO        NO2       PART      O3       Global
+   ALGECIRAS              BUENA     BUENA     BUENA   ADMISIBLE            ADMISIBLE
+   LOS BARRIOS            BUENA               BUENA   ADMISIBLE            ADMISIBLE
+   JEREZ                  BUENA     BUENA     BUENA     MALA      BUENA      MALA
+   LA LINEA               BUENA               BUENA   ADMISIBLE Sin Datos  ADMISIBLE
+   CORTIJILLOS            BUENA               BUENA   ADMISIBLE            ADMISIBLE
+   CAMPAMENTO             BUENA               BUENA     BUENA                BUENA
+   ECONOMATO              BUENA             Sin Datos Sin Datos              BUENA
+   GUADARRANQUE           BUENA               BUENA     BUENA                BUENA
+   MADREVIEJA             BUENA               BUENA   ADMISIBLE            ADMISIBLE
+   E. DE HOSTELERIA     Sin Datos   BUENA     BUENA     BUENA                BUENA
+   Avda. MARCONI          BUENA     BUENA     BUENA     BUENA   ADMISIBLE  ADMISIBLE
+   RÍO SAN PEDRO          BUENA               BUENA     BUENA   ADMISIBLE  ADMISIBLE
+   SAN FERNANDO           BUENA     BUENA     BUENA   ADMISIBLE ADMISIBLE  ADMISIBLE
+
+
+  Evolución de la  calidad
+   Provincia : CADIZ
+   Remota                   Anterior   Actual     Evolución
+   ALGECIRAS              ADMISIBLE  ADMISIBLE    MEJOR
+   LOS BARRIOS            ADMISIBLE  ADMISIBLE    MEJOR
+   JEREZ                  MALA       MALA         MEJOR
+   LA LINEA               MALA       ADMISIBLE    MEJOR
+   CORTIJILLOS            ADMISIBLE  ADMISIBLE    MEJOR
+   CAMPAMENTO             BUENA      BUENA        PEOR
+   ECONOMATO              BUENA      BUENA        PEOR
+   GUADARRANQUE           BUENA      BUENA        PEOR
+   MADREVIEJA             ADMISIBLE  ADMISIBLE    MEJOR
+   E. DE HOSTELERIA       BUENA      BUENA        MEJOR
+   Avda. MARCONI          ADMISIBLE  ADMISIBLE    PEOR
+   RÍO SAN PEDRO          ADMISIBLE  ADMISIBLE    PEOR
+   SAN FERNANDO           MALA       ADMISIBLE    MEJOR
+  Situaciones con calificación regular, mala y muy mala
+
+  CADIZ         JEREZ                         PART    MALA
+
+
+
+
+
+
+
+
+
+
+
+
+  Observaciones :
+
+Altos valores en partículas por intrusión de masa de aire procedente de los desiertos del continente africano.
+ Más información en:
+
+ftp://jwocky.gsfc.nasa.gov/pub/tmp/meduse
+http://seawifs.gsfc.nasa.gov/cgibrs/seawifs_subreg.pl
+http://forecast.uoa.gr/
+</PRE>
+
+<p>Altos valores en partículas por intrusión de masa de aire procedente de los desiertos del continente africano. 
+
+<p>Más información en: 
+<ul>
+<li><a href=ftp://jwocky.gsfc.nasa.gov/pub/tmp/meduse>ftp://jwocky.gsfc.nasa.gov/pub/tmp/meduse</A> 
+
+<li><a href=http://seawifs.gsfc.nasa.gov/cgibrs/seawifs_subreg.pl>http://seawifs.gsfc.nasa.gov/cgibrs/seawifs_subreg.pl  </A> 
+
+<li><a href=http://forecast.uoa.gr/>http://forecast.uoa.gr/</A>
+</ul>     
+</html> 
