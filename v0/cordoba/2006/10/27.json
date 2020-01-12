@@ -1,1 +1,76 @@
-{"u":"http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/oct06/co061027.htm","time":1161907200,"stations":[{"t":"CORDOBA","s":"ASOMADILLA","so2":2,"co":2,"no2":2,"part":2,"o3":2,"g":2,"prev":3,"act":2,"evol":1,"gs":null},{"t":"CORDOBA","s":"LEPANTO","so2":2,"co":2,"no2":2,"part":3,"o3":2,"g":3,"prev":3,"act":3,"evol":1,"gs":null},{"t":"ESPIEL","s":"ESPIEL","so2":2,"co":0,"no2":2,"part":3,"o3":0,"g":3,"prev":2,"act":3,"evol":2,"gs":null},{"t":"ESPIEL","s":"POBLADO","so2":2,"co":0,"no2":2,"part":4,"o3":0,"g":4,"prev":2,"act":4,"evol":2,"gs":null},{"t":"VILLAVICIOSA DE CORDOBA","s":"EL VACAR","so2":2,"co":0,"no2":2,"part":2,"o3":0,"g":2,"prev":2,"act":2,"evol":2,"gs":null}]}
+{
+    "u": "http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/oct06/co061027.htm",
+    "time": 1161907200,
+    "stations": [
+        {
+            "t": "CORDOBA",
+            "s": "ASOMADILLA",
+            "so2": 2,
+            "co": 2,
+            "no2": 2,
+            "part": 2,
+            "o3": 2,
+            "g": 2,
+            "prev": 3,
+            "act": 2,
+            "evol": 1,
+            "gs": null
+        },
+        {
+            "t": "CORDOBA",
+            "s": "LEPANTO",
+            "so2": 2,
+            "co": 2,
+            "no2": 2,
+            "part": 3,
+            "o3": 2,
+            "g": 3,
+            "prev": 3,
+            "act": 3,
+            "evol": 1,
+            "gs": null
+        },
+        {
+            "t": "ESPIEL",
+            "s": "ESPIEL",
+            "so2": 2,
+            "co": 0,
+            "no2": 2,
+            "part": 3,
+            "o3": 0,
+            "g": 3,
+            "prev": 2,
+            "act": 3,
+            "evol": 2,
+            "gs": null
+        },
+        {
+            "t": "ESPIEL",
+            "s": "POBLADO",
+            "so2": 2,
+            "co": 0,
+            "no2": 2,
+            "part": 4,
+            "o3": 0,
+            "g": 4,
+            "prev": 2,
+            "act": 4,
+            "evol": 2,
+            "gs": null
+        },
+        {
+            "t": "VILLAVICIOSA DE CORDOBA",
+            "s": "EL VACAR",
+            "so2": 2,
+            "co": 0,
+            "no2": 2,
+            "part": 2,
+            "o3": 0,
+            "g": 2,
+            "prev": 2,
+            "act": 2,
+            "evol": 2,
+            "gs": null
+        }
+    ]
+}

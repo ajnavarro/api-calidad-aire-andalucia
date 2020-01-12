@@ -1,1 +1,90 @@
-{"u":"http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/nov18/co181122.htm","time":1542844800,"stations":[{"t":"CORDOBA","s":"LEPANTO","so2":2,"co":2,"no2":2,"part":1,"o3":2,"g":2,"prev":2,"act":2,"evol":1,"gs":null},{"t":"ESPIEL","s":"POBLADO","so2":2,"co":0,"no2":2,"part":2,"o3":0,"g":2,"prev":2,"act":2,"evol":1,"gs":null},{"t":"OBEJO","s":"OBEJO","so2":2,"co":0,"no2":2,"part":2,"o3":0,"g":2,"prev":2,"act":2,"evol":1,"gs":null},{"t":"VILLAHARTA","s":"VILLAHARTA","so2":2,"co":2,"no2":2,"part":0,"o3":3,"g":3,"prev":3,"act":3,"evol":1,"gs":null},{"t":"CORDOBA","s":"ASOMADILLA","so2":1,"co":1,"no2":2,"part":2,"o3":2,"g":2,"prev":2,"act":2,"evol":2,"gs":null},{"t":"CORDOBA","s":"AVDA. AL-NASIR","so2":2,"co":1,"no2":2,"part":2,"o3":0,"g":2,"prev":2,"act":2,"evol":2,"gs":null}]}
+{
+    "u": "http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/nov18/co181122.htm",
+    "time": 1542844800,
+    "stations": [
+        {
+            "t": "CORDOBA",
+            "s": "ASOMADILLA",
+            "so2": 1,
+            "co": 1,
+            "no2": 2,
+            "part": 2,
+            "o3": 2,
+            "g": 2,
+            "prev": 2,
+            "act": 2,
+            "evol": 2,
+            "gs": null
+        },
+        {
+            "t": "CORDOBA",
+            "s": "AVDA. AL-NASIR",
+            "so2": 2,
+            "co": 1,
+            "no2": 2,
+            "part": 2,
+            "o3": 0,
+            "g": 2,
+            "prev": 2,
+            "act": 2,
+            "evol": 2,
+            "gs": null
+        },
+        {
+            "t": "CORDOBA",
+            "s": "LEPANTO",
+            "so2": 2,
+            "co": 2,
+            "no2": 2,
+            "part": 1,
+            "o3": 2,
+            "g": 2,
+            "prev": 2,
+            "act": 2,
+            "evol": 1,
+            "gs": null
+        },
+        {
+            "t": "ESPIEL",
+            "s": "POBLADO",
+            "so2": 2,
+            "co": 0,
+            "no2": 2,
+            "part": 2,
+            "o3": 0,
+            "g": 2,
+            "prev": 2,
+            "act": 2,
+            "evol": 1,
+            "gs": null
+        },
+        {
+            "t": "OBEJO",
+            "s": "OBEJO",
+            "so2": 2,
+            "co": 0,
+            "no2": 2,
+            "part": 2,
+            "o3": 0,
+            "g": 2,
+            "prev": 2,
+            "act": 2,
+            "evol": 1,
+            "gs": null
+        },
+        {
+            "t": "VILLAHARTA",
+            "s": "VILLAHARTA",
+            "so2": 2,
+            "co": 2,
+            "no2": 2,
+            "part": 0,
+            "o3": 3,
+            "g": 3,
+            "prev": 3,
+            "act": 3,
+            "evol": 1,
+            "gs": null
+        }
+    ]
+}

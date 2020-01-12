@@ -1,1 +1,26 @@
-{"u":"http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/ago05/co050817.htm","time":1124236800,"stations":[{"t":"CORDOBA","s":"GRAN V\ufffdA PARQUE","so2":1,"co":1,"no2":1,"part":1,"o3":1,"g":1,"prev":1,"act":1,"evol":0,"gs":{"p":"CORDOBA","t":"CORDOBA","s":"GRAN V\ufffdA PARQUE","addr":"AVDA. GRAN V\ufffdA PARQUE, ESQUINA C/. MANOLETE","gsd":null}}]}
+{
+    "u": "http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/ago05/co050817.htm",
+    "time": 1124236800,
+    "stations": [
+        {
+            "t": "CORDOBA",
+            "s": "GRAN VÍA PARQUE",
+            "so2": 1,
+            "co": 1,
+            "no2": 1,
+            "part": 1,
+            "o3": 1,
+            "g": 1,
+            "prev": 1,
+            "act": 1,
+            "evol": 0,
+            "gs": {
+                "p": "CORDOBA",
+                "t": "CORDOBA",
+                "s": "GRAN VÍA PARQUE",
+                "addr": "AVDA. GRAN VÍA PARQUE, ESQUINA C/. MANOLETE",
+                "gsd": null
+            }
+        }
+    ]
+}

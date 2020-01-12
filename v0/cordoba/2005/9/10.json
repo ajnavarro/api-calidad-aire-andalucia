@@ -1,1 +1,26 @@
-{"u":"http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/sep05/co050910.htm","time":1126310400,"stations":[{"t":"CORDOBA","s":"ASOMADILLA","so2":1,"co":1,"no2":1,"part":1,"o3":1,"g":1,"prev":3,"act":1,"evol":0,"gs":{"p":"CORDOBA","t":"CORDOBA","s":"ASOMADILLA","addr":"C/ESCULTOR JULIO GONZALEZ","gsd":null}}]}
+{
+    "u": "http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/sep05/co050910.htm",
+    "time": 1126310400,
+    "stations": [
+        {
+            "t": "CORDOBA",
+            "s": "ASOMADILLA",
+            "so2": 1,
+            "co": 1,
+            "no2": 1,
+            "part": 1,
+            "o3": 1,
+            "g": 1,
+            "prev": 3,
+            "act": 1,
+            "evol": 0,
+            "gs": {
+                "p": "CORDOBA",
+                "t": "CORDOBA",
+                "s": "ASOMADILLA",
+                "addr": "C/ESCULTOR JULIO GONZALEZ",
+                "gsd": null
+            }
+        }
+    ]
+}

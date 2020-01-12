@@ -1,1 +1,86 @@
-{"u":"http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/oct19/gr191002.htm","time":1569974400,"stations":[{"t":"GRANADA","s":"PALACIO DE CONGRESOS","so2":1,"co":1,"no2":1,"part":1,"o3":1,"g":1,"prev":1,"act":1,"evol":0,"gs":{"p":"GRANADA","t":"GRANADA","s":"PALACIO DE CONGRESOS","addr":"PASEO DE VIOL\ufffdN S/N","gsd":null}},{"t":"MOTRIL","s":"MOTRIL","so2":1,"co":1,"no2":1,"part":1,"o3":1,"g":1,"prev":1,"act":1,"evol":0,"gs":{"p":"GRANADA","t":"MOTRIL","s":"MOTRIL","addr":"EL VARADERO","gsd":null}},{"t":"ARMILLA","s":"CIUDAD DEPORTIVA","so2":1,"co":1,"no2":1,"part":1,"o3":1,"g":1,"prev":1,"act":1,"evol":0,"gs":{"p":"GRANADA","t":"ARMILLA","s":"CIUDAD DEPORTIVA","addr":"AVDA. PIERRE DE COUBERTAIN S/N","gsd":null}},{"t":"GRANADA","s":"GRANADA-NORTE","so2":1,"co":1,"no2":1,"part":1,"o3":1,"g":1,"prev":1,"act":1,"evol":0,"gs":{"p":"GRANADA","t":"GRANADA","s":"GRANADA-NORTE","addr":"AVDA. LUIS MIRANDA D\ufffdVALOS","gsd":null}}]}
+{
+    "u": "http://www.juntadeandalucia.es/medioambiente/atmosfera/informes_siva/oct19/gr191002.htm",
+    "time": 1569974400,
+    "stations": [
+        {
+            "t": "ARMILLA",
+            "s": "CIUDAD DEPORTIVA",
+            "so2": 1,
+            "co": 1,
+            "no2": 1,
+            "part": 1,
+            "o3": 1,
+            "g": 1,
+            "prev": 1,
+            "act": 1,
+            "evol": 0,
+            "gs": {
+                "p": "GRANADA",
+                "t": "ARMILLA",
+                "s": "CIUDAD DEPORTIVA",
+                "addr": "AVDA. PIERRE DE COUBERTAIN S/N",
+                "gsd": null
+            }
+        },
+        {
+            "t": "GRANADA",
+            "s": "GRANADA-NORTE",
+            "so2": 1,
+            "co": 1,
+            "no2": 1,
+            "part": 1,
+            "o3": 1,
+            "g": 1,
+            "prev": 1,
+            "act": 1,
+            "evol": 0,
+            "gs": {
+                "p": "GRANADA",
+                "t": "GRANADA",
+                "s": "GRANADA-NORTE",
+                "addr": "AVDA. LUIS MIRANDA DÓVALOS",
+                "gsd": null
+            }
+        },
+        {
+            "t": "GRANADA",
+            "s": "PALACIO DE CONGRESOS",
+            "so2": 1,
+            "co": 1,
+            "no2": 1,
+            "part": 1,
+            "o3": 1,
+            "g": 1,
+            "prev": 1,
+            "act": 1,
+            "evol": 0,
+            "gs": {
+                "p": "GRANADA",
+                "t": "GRANADA",
+                "s": "PALACIO DE CONGRESOS",
+                "addr": "PASEO DE VIOLÓN S/N",
+                "gsd": null
+            }
+        },
+        {
+            "t": "MOTRIL",
+            "s": "MOTRIL",
+            "so2": 1,
+            "co": 1,
+            "no2": 1,
+            "part": 1,
+            "o3": 1,
+            "g": 1,
+            "prev": 1,
+            "act": 1,
+            "evol": 0,
+            "gs": {
+                "p": "GRANADA",
+                "t": "MOTRIL",
+                "s": "MOTRIL",
+                "addr": "EL VARADERO",
+                "gsd": null
+            }
+        }
+    ]
+}
